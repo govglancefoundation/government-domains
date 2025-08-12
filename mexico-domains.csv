@@ -1,0 +1,180 @@
+Domain,Level of Government,Jurisdiction,Type/Description,Language
+gob.mx,Federal,Mexico,Main federal government portal,Bilingual
+gob.mx/en,Federal,Mexico,English version of main portal,English
+gob.mx/segob,Federal,Mexico,Secretaría de Gobernación (Interior Ministry),Spanish
+segob.gob.mx,Federal,Mexico,SEGOB alternative domain,Spanish
+gob.mx/sre,Federal,Mexico,Secretaría de Relaciones Exteriores (Foreign Affairs),Bilingual
+sre.gob.mx,Federal,Mexico,SRE alternative domain,Bilingual
+gob.mx/defensa,Federal,Mexico,Secretaría de la Defensa Nacional (Defense),Spanish
+defensa.gob.mx,Federal,Mexico,SEDENA alternative domain,Spanish
+gob.mx/semar,Federal,Mexico,Secretaría de Marina (Navy),Spanish
+semar.gob.mx,Federal,Mexico,SEMAR alternative domain,Spanish
+gob.mx/shcp,Federal,Mexico,Secretaría de Hacienda y Crédito Público (Finance),Bilingual
+shcp.gob.mx,Federal,Mexico,SHCP alternative domain,Bilingual
+hacienda.gob.mx,Federal,Mexico,SHCP secondary domain,Bilingual
+gob.mx/sep,Federal,Mexico,Secretaría de Educación Pública (Education),Spanish
+sep.gob.mx,Federal,Mexico,SEP alternative domain,Spanish
+gob.mx/salud,Federal,Mexico,Secretaría de Salud (Health),Spanish
+gob.mx/sener,Federal,Mexico,Secretaría de Energía,Spanish
+energia.gob.mx,Federal,Mexico,SENER alternative domain,Spanish
+gob.mx/sectur,Federal,Mexico,Secretaría de Turismo,Spanish
+gob.mx/bienestar,Federal,Mexico,Secretaría de Bienestar (Welfare),Spanish
+gob.mx/semarnat,Federal,Mexico,Secretaría de Medio Ambiente y Recursos Naturales,Spanish
+semarnat.gob.mx,Federal,Mexico,SEMARNAT alternative domain,Spanish
+gob.mx/se,Federal,Mexico,Secretaría de Economía,Spanish
+gob.mx/agricultura,Federal,Mexico,Secretaría de Agricultura y Desarrollo Rural,Spanish
+gob.mx/sct,Federal,Mexico,Secretaría de Infraestructura Comunicaciones y Transportes,Spanish
+gob.mx/stps,Federal,Mexico,Secretaría del Trabajo y Previsión Social,Spanish
+stps.gob.mx,Federal,Mexico,STPS alternative domain,Spanish
+gob.mx/sedatu,Federal,Mexico,Secretaría de Desarrollo Agrario Territorial y Urbano,Spanish
+gob.mx/cultura,Federal,Mexico,Secretaría de Cultura,Spanish
+gob.mx/sspc,Federal,Mexico,Secretaría de Seguridad y Protección Ciudadana,Spanish
+gob.mx/sfp,Federal,Mexico,Secretaría de la Función Pública,Spanish
+gob.mx/presidencia,Federal,Mexico,Presidencia de la República,Spanish
+diputados.gob.mx,Federal,Mexico,Cámara de Diputados (Chamber of Deputies),Spanish
+senado.gob.mx,Federal,Mexico,Senado de la República (Senate),Spanish
+congreso.gob.mx,Federal,Mexico,Congreso de la Unión (Joint Congress),Spanish
+scjn.gob.mx,Federal,Mexico,Suprema Corte de Justicia de la Nación,Spanish
+supremacorte.gob.mx,Federal,Mexico,SCJN alternative domain,Spanish
+sat.gob.mx,Federal,Mexico,Servicio de Administración Tributaria (Tax Service),Spanish
+inegi.org.mx,Federal,Mexico,Instituto Nacional de Estadística y Geografía,Spanish
+imss.gob.mx,Federal,Mexico,Instituto Mexicano del Seguro Social,Spanish
+issste.gob.mx,Federal,Mexico,Instituto de Seguridad Social para Trabajadores del Estado,Spanish
+gob.mx/cofepris,Federal,Mexico,Comisión Federal para Protección contra Riesgos Sanitarios,Spanish
+cofepris.gob.mx,Federal,Mexico,COFEPRIS alternative domain,Spanish
+profeco.gob.mx,Federal,Mexico,Procuraduría Federal del Consumidor,Spanish
+condusef.gob.mx,Federal,Mexico,Comisión Nacional para Protección de Usuarios Financieros,Spanish
+gob.mx/cndh,Federal,Mexico,Comisión Nacional de Derechos Humanos,Spanish
+gob.mx/fgr,Federal,Mexico,Fiscalía General de la República,Spanish
+gob.mx/ceav,Federal,Mexico,Comisión Ejecutiva de Atención a Víctimas,Spanish
+banxico.org.mx,Federal,Mexico,Banco de México (Central Bank),Bilingual
+gob.mx/cnbv,Federal,Mexico,Comisión Nacional Bancaria y de Valores,Spanish
+cnbv.gob.mx,Federal,Mexico,CNBV alternative domain,Spanish
+consar.gob.mx,Federal,Mexico,Comisión Nacional del Sistema de Ahorro para el Retiro,Spanish
+gob.mx/cnsf,Federal,Mexico,Comisión Nacional de Seguros y Fianzas,Spanish
+cnsf.gob.mx,Federal,Mexico,CNSF alternative domain,Spanish
+conahcyt.mx,Federal,Mexico,Consejo Nacional de Humanidades Ciencias y Tecnologías,Spanish
+unam.mx,Federal,Mexico,Universidad Nacional Autónoma de México,Spanish
+ipn.mx,Federal,Mexico,Instituto Politécnico Nacional,Spanish
+gob.mx/conagua,Federal,Mexico,Comisión Nacional del Agua,Spanish
+gob.mx/conafor,Federal,Mexico,Comisión Nacional Forestal,Spanish
+inmujeres.gob.mx,Federal,Mexico,Instituto Nacional de las Mujeres,Spanish
+gob.mx/inmujeres,Federal,Mexico,INMUJERES alternative portal,Spanish
+conapred.org.mx,Federal,Mexico,Consejo Nacional para Prevenir la Discriminación,Spanish
+ine.mx,Federal,Mexico,Instituto Nacional Electoral,Spanish
+te.gob.mx,Federal,Mexico,Tribunal Electoral del Poder Judicial,Spanish
+cfe.mx,Federal,Mexico,Comisión Federal de Electricidad,Spanish
+pemex.com,Federal,Mexico,Petróleos Mexicanos,Spanish
+bajacalifornia.gob.mx,State,Baja California,Main state government portal,Spanish
+congresobc.gob.mx,State,Baja California,State Congress,Spanish
+poder-judicial-bc.gob.mx,State,Baja California,State Judicial Branch,Spanish
+seguridadbc.gob.mx,State,Baja California,State Security Secretariat,Spanish
+transparenciabc.gob.mx,State,Baja California,State Transparency Portal,Spanish
+ebajacalifornia.gob.mx,State,Baja California,Electronic Government Services,Spanish
+bcs.gob.mx,State,Baja California Sur,Main state government portal,Spanish
+sonora.gob.mx,State,Sonora,Main state government portal,Spanish
+hacienda.sonora.gob.mx,State,Sonora,State Finance Secretariat,Spanish
+chihuahua.gob.mx,State,Chihuahua,Main state government portal,Spanish
+tramites.chihuahua.gob.mx,State,Chihuahua,State Procedures and Services,Spanish
+coahuila.gob.mx,State,Coahuila,Main state government portal,Spanish
+irycdecoahuila.gob.mx,State,Coahuila,Registry and Cadastral Institute,Spanish
+tramitescoahuila.gob.mx,State,Coahuila,State Procedures Portal,Spanish
+nl.gob.mx,State,Nuevo León,Main state government portal,Spanish
+pjenl.gob.mx,State,Nuevo León,State Judicial Branch,Spanish
+hcnl.gob.mx,State,Nuevo León,State Congress,Spanish
+asenl.gob.mx,State,Nuevo León,State Audit Office,Spanish
+ircnl.gob.mx,State,Nuevo León,Registry and Cadastral Institute,Spanish
+tamaulipas.gob.mx,State,Tamaulipas,Main state government portal,Bilingual
+tamaulipas.gob.mx/en,State,Tamaulipas,English version of state portal,English
+congresotamaulipas.gob.mx,State,Tamaulipas,State Congress,Spanish
+sinaloa.gob.mx,State,Sinaloa,Main state government portal,Spanish
+congresosinaloa.gob.mx,State,Sinaloa,State Congress,Spanish
+transparencia.sinaloa.gob.mx,State,Sinaloa,State Transparency Portal,Spanish
+durango.gob.mx,State,Durango,Main state government portal,Spanish
+congresodurango.gob.mx,State,Durango,State Congress,Spanish
+finanzas.durango.gob.mx,State,Durango,State Finance Secretariat,Spanish
+cdmx.gob.mx,State,Ciudad de México,Main CDMX government portal,Spanish
+gobierno.cdmx.gob.mx,State,Ciudad de México,CDMX Government Services,Spanish
+mexicocity.cdmx.gob.mx,State,Ciudad de México,Tourism and Visitor Portal,Bilingual
+datos.cdmx.gob.mx,State,Ciudad de México,Open Data Portal,Spanish
+tramites.cdmx.gob.mx,State,Ciudad de México,Procedures and Services,Spanish
+sedeco.cdmx.gob.mx,State,Ciudad de México,Economic Development Secretariat,Spanish
+sacmex.cdmx.gob.mx,State,Ciudad de México,Water System (SACMEX),Spanish
+cgma.cdmx.gob.mx,State,Ciudad de México,Administrative Coordination,Spanish
+edomex.gob.mx,State,Estado de México,Main state government portal,Spanish
+puebla.gob.mx,State,Puebla,Main state government portal,Spanish
+morelos.gob.mx,State,Morelos,Main state government portal,Spanish
+hidalgo.gob.mx,State,Hidalgo,Main state government portal,Spanish
+ruts.hidalgo.gob.mx,State,Hidalgo,State Services Portal,Spanish
+tlaxcala.gob.mx,State,Tlaxcala,Main state government portal,Spanish
+congresodetlaxcala.gob.mx,State,Tlaxcala,State Congress,Spanish
+finanzastlax.gob.mx,State,Tlaxcala,State Finance Ministry,Spanish
+septlaxcala.gob.mx,State,Tlaxcala,State Education Ministry,Spanish
+queretaro.gob.mx,State,Querétaro,Main state government portal,Spanish
+puertointerior.guanajuato.gob.mx,State,Guanajuato,Puerto Interior Economic Zone,Spanish
+slp.gob.mx,State,San Luis Potosí,Main state government portal,Spanish
+aguascalientes.gob.mx,State,Aguascalientes,Main state government portal,Spanish
+tramites.aguascalientes.gob.mx,State,Aguascalientes,State Procedures Portal,Spanish
+jalisco.gob.mx,State,Jalisco,Main state government portal,Spanish
+col.gob.mx,State,Colima,Main state government portal,Spanish
+michoacan.gob.mx,State,Michoacán,Main state government portal,Spanish
+guerrero.gob.mx,State,Guerrero,Main state government portal,Spanish
+oaxaca.gob.mx,State,Oaxaca,Main state government portal,Spanish
+siox.finanzasoaxaca.gob.mx,State,Oaxaca,State Finance System,Spanish
+finanzaschiapas.gob.mx,State,Chiapas,State Finance Secretariat,Spanish
+nayarit.gob.mx,State,Nayarit,Main state government portal,Spanish
+chiapas.gob.mx,State,Chiapas,Main state government portal,Spanish
+veracruz.gob.mx,State,Veracruz,Main state government portal,Spanish
+legisver.gob.mx,State,Veracruz,State Congress,Spanish
+ovh.gob.mx,State,Veracruz,State Tax Office,Spanish
+tabasco.gob.mx,State,Tabasco,Main state government portal,Spanish
+campeche.gob.mx,State,Campeche,Main state government portal,Spanish
+yucatan.gob.mx,State,Yucatán,Main state government portal,Spanish
+qroo.gob.mx,State,Quintana Roo,Main state government portal,Spanish
+cgc.qroo.gob.mx,State,Quintana Roo,Government Communications,Spanish
+zacatecas.gob.mx,State,Zacatecas,Main state government portal,Spanish
+sefin.zacatecas.gob.mx,State,Zacatecas,State Finance Secretariat,Spanish
+monterrey.gob.mx,Municipal,Monterrey,Municipal government portal,Spanish
+portal.monterrey.gob.mx,Municipal,Monterrey,Government portal with services,Spanish
+tijuana.gob.mx,Municipal,Tijuana,Municipal government portal,Spanish
+mexicali.gob.mx,Municipal,Mexicali,Municipal government portal,Spanish
+juarez.gob.mx,Municipal,Ciudad Juárez,Municipal government portal,Spanish
+saltillo.gob.mx,Municipal,Saltillo,Municipal government portal,Spanish
+saltillofacil.gob.mx,Municipal,Saltillo,Municipal services platform,Spanish
+hermosillo.gob.mx,Municipal,Hermosillo,Municipal government portal,Spanish
+tuobra.hermosillo.gob.mx,Municipal,Hermosillo,Public works transparency,Spanish
+culiacan.gob.mx,Municipal,Culiacán,Municipal government portal,Spanish
+ciudadvictoria.gob.mx,Municipal,Ciudad Victoria,Municipal government portal,Spanish
+comapavictoria.gob.mx,Municipal,Ciudad Victoria,Municipal water utility,Spanish
+municipiodurango.gob.mx,Municipal,Durango,Municipal government portal,Spanish
+pagos.municipiodurango.gob.mx,Municipal,Durango,Municipal payment services,Spanish
+amd.gob.mx,Municipal,Durango,Municipal water utility,Spanish
+aao.cdmx.gob.mx,Municipal,CDMX - Álvaro Obregón,Alcaldía government portal,Spanish
+azcapotzalco.cdmx.gob.mx,Municipal,CDMX - Azcapotzalco,Alcaldía government portal,Spanish
+alcaldiabenitojuarez.gob.mx,Municipal,CDMX - Benito Juárez,Alcaldía government portal,Spanish
+coyoacan.cdmx.gob.mx,Municipal,CDMX - Coyoacán,Alcaldía government portal,Spanish
+cuajimalpa.gob.mx,Municipal,CDMX - Cuajimalpa,Alcaldía government portal,Spanish
+cuajimalpa.cdmx.gob.mx,Municipal,CDMX - Cuajimalpa,Alcaldía alternative domain,Spanish
+alcaldiacuauhtemoc.mx,Municipal,CDMX - Cuauhtémoc,Alcaldía government portal,Spanish
+gamadero.cdmx.gob.mx,Municipal,CDMX - Gustavo A. Madero,Alcaldía government portal,Spanish
+iztacalco.cdmx.gob.mx,Municipal,CDMX - Iztacalco,Alcaldía government portal,Spanish
+iztapalapa.cdmx.gob.mx,Municipal,CDMX - Iztapalapa,Alcaldía government portal,Spanish
+mcontreras.gob.mx,Municipal,CDMX - Magdalena Contreras,Alcaldía government portal,Spanish
+miguelhidalgo.cdmx.gob.mx,Municipal,CDMX - Miguel Hidalgo,Alcaldía government portal,Spanish
+milpa-alta.cdmx.gob.mx,Municipal,CDMX - Milpa Alta,Alcaldía government portal,Spanish
+tlahuac.cdmx.gob.mx,Municipal,CDMX - Tláhuac,Alcaldía government portal,Spanish
+tlalpan.cdmx.gob.mx,Municipal,CDMX - Tlalpan,Alcaldía government portal,Spanish
+vcarranza.cdmx.gob.mx,Municipal,CDMX - Venustiano Carranza,Alcaldía government portal,Spanish
+xochimilco.cdmx.gob.mx,Municipal,CDMX - Xochimilco,Alcaldía government portal,Spanish
+guadalajara.gob.mx,Municipal,Guadalajara,Municipal government portal,Spanish
+zapopan.gob.mx,Municipal,Zapopan,Municipal government portal,Spanish
+morelia.gob.mx,Municipal,Morelia,Municipal government portal,Spanish
+pachuca.gob.mx,Municipal,Pachuca,Municipal government portal,Spanish
+tlaxcaladexicohtencatl.gob.mx,Municipal,Tlaxcala,Municipal government portal,Spanish
+guanajuatocapital.gob.mx,Municipal,Guanajuato,Municipal government portal,Spanish
+leon.gob.mx,Municipal,León,Municipal government portal,Spanish
+torreon.gob.mx,Municipal,Torreón,Municipal government portal,Spanish
+acapulco.gob.mx,Municipal,Acapulco,Municipal government portal,Spanish
+merida.gob.mx,Municipal,Mérida,Municipal government portal,Spanish
+cancun.gob.mx,Municipal,Cancún,Municipal government portal,Spanish
+municipiodeoaxaca.gob.mx,Municipal,Oaxaca de Juárez,Municipal government portal,Spanish

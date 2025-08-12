@@ -1,0 +1,135 @@
+Domain,Institution Name,Category,Description
+japan.go.jp,JapanGov Portal,Main Portal,Official government portal providing information on policies news and links to all ministries
+e-gov.go.jp,e-Government Portal,Digital Portal,Online administrative procedures and digital services managed by Digital Agency
+gov-online.go.jp,Government Public Relations Online,PR Portal,Public relations portal delivering government policies to citizens
+e-stat.go.jp,e-Stat Portal,Statistics Portal,Comprehensive Japanese government statistics from all ministries
+cao.go.jp,Cabinet Office,Cabinet Office,Strategic planning economic policy science policy disaster management
+kantei.go.jp,Prime Minister's Office,Prime Minister's Office,Official website of PM activities and government initiatives
+cas.go.jp,Cabinet Secretariat,Cabinet Secretariat,Cabinet operations support and policy coordination
+soumu.go.jp,Ministry of Internal Affairs and Communications,Ministry,Administrative oversight local government telecommunications statistics
+moj.go.jp,Ministry of Justice,Ministry,Judicial system corrections immigration public security intelligence
+mofa.go.jp,Ministry of Foreign Affairs,Ministry,Foreign policy diplomatic relations international cooperation
+mof.go.jp,Ministry of Finance,Ministry,Budget tax policy customs government debt management
+mext.go.jp,Ministry of Education Culture Sports Science and Technology,Ministry,Education scientific research cultural preservation sports promotion
+mhlw.go.jp,Ministry of Health Labour and Welfare,Ministry,Healthcare labor standards social security pension systems
+maff.go.jp,Ministry of Agriculture Forestry and Fisheries,Ministry,Agricultural policy food security rural development
+meti.go.jp,Ministry of Economy Trade and Industry,Ministry,Industrial policy trade promotion energy policy innovation
+mlit.go.jp,Ministry of Land Infrastructure Transport and Tourism,Ministry,Infrastructure transportation urban development tourism
+env.go.jp,Ministry of the Environment,Ministry,Environmental protection climate change biodiversity conservation
+mod.go.jp,Ministry of Defense,Ministry,National defense Self-Defense Forces administration
+digital.go.jp,Digital Agency,Agency,Digital transformation cybersecurity IT policy
+reconstruction.go.jp,Reconstruction Agency,Agency,Great East Japan Earthquake recovery coordination
+pref.hokkaido.lg.jp,Hokkaido Prefectural Government,Prefecture,Japan's northernmost island and largest prefecture
+pref.aomori.lg.jp,Aomori Prefectural Government,Prefecture,Northernmost Honshu prefecture famous for apples
+pref.iwate.jp,Iwate Prefectural Government,Prefecture,Second-largest prefecture traditional crafts center
+pref.miyagi.jp,Miyagi Prefectural Government,Prefecture,Central Tohoku home to regional hub Sendai
+pref.akita.lg.jp,Akita Prefectural Government,Prefecture,Sea of Japan coast rice and sake production
+pref.yamagata.jp,Yamagata Prefectural Government,Prefecture,Cherry production hot springs sacred mountains
+pref.fukushima.lg.jp,Fukushima Prefectural Government,Prefecture,Southern Tohoku post-2011 reconstruction efforts
+metro.tokyo.lg.jp,Tokyo Metropolitan Government,Metropolis,Japan's capital with unique administrative structure
+pref.kanagawa.jp,Kanagawa Prefectural Government,Prefecture,Second-most populous home to Yokohama
+pref.saitama.lg.jp,Saitama Prefectural Government,Prefecture,North of Tokyo residential communities
+pref.chiba.lg.jp,Chiba Prefectural Government,Prefecture,East of Tokyo Narita Airport location
+pref.ibaraki.jp,Ibaraki Prefectural Government,Prefecture,Northeast of Tokyo research facilities
+pref.tochigi.lg.jp,Tochigi Prefectural Government,Prefecture,Nikko UNESCO sites and hot springs
+pref.gunma.jp,Gunma Prefectural Government,Prefecture,Famous hot springs including Kusatsu
+pref.niigata.lg.jp,Niigata Prefectural Government,Prefecture,Largest Chubu prefecture rice production
+pref.toyama.jp,Toyama Prefectural Government,Prefecture,Hokuriku region pharmaceutical industry
+pref.ishikawa.lg.jp,Ishikawa Prefectural Government,Prefecture,Home to Kanazawa traditional crafts
+pref.fukui.lg.jp,Fukui Prefectural Government,Prefecture,Sea of Japan coast nuclear power generation
+pref.yamanashi.jp,Yamanashi Prefectural Government,Prefecture,Near Mount Fuji wine production
+pref.nagano.lg.jp,Nagano Prefectural Government,Prefecture,Japanese Alps 1998 Winter Olympics host
+pref.gifu.lg.jp,Gifu Prefectural Government,Prefecture,Landlocked central prefecture
+pref.shizuoka.jp,Shizuoka Prefectural Government,Prefecture,Mount Fuji location tea production
+pref.aichi.jp,Aichi Prefectural Government,Prefecture,Home to Nagoya automotive industry center
+pref.mie.lg.jp,Mie Prefectural Government,Prefecture,Ise Grand Shrine Suzuka Circuit
+pref.shiga.lg.jp,Shiga Prefectural Government,Prefecture,Lake Biwa surroundings highest Natural Parks ratio
+pref.kyoto.jp,Kyoto Prefecture,Prefecture,Former imperial capital cultural heritage center
+pref.osaka.lg.jp,Osaka Prefectural Government,Prefecture,Major economic center 2025 World Expo host
+web.pref.hyogo.lg.jp,Hyogo Prefectural Government,Prefecture,Kobe capital spans two seas
+pref.nara.jp,Nara Prefecture,Prefecture,First permanent capital most UNESCO sites
+pref.wakayama.lg.jp,Wakayama Prefecture,Prefecture,Kii Peninsula Mount Koya pilgrimage routes
+pref.tottori.lg.jp,Tottori Prefecture,Prefecture,Least populated famous sand dunes
+pref.shimane.lg.jp,Shimane Prefecture,Prefecture,Izumo Taisha shrine Iwami silver mine
+pref.okayama.jp,Okayama Prefecture,Prefecture,Korakuen Garden minimal rainfall
+pref.hiroshima.lg.jp,Hiroshima Prefectural Government,Prefecture,Peace memorial two UNESCO sites
+pref.yamaguchi.lg.jp,Yamaguchi Prefecture,Prefecture,Westernmost Honshu historic Choshu domain
+pref.tokushima.lg.jp,Tokushima Prefecture,Prefecture,Awa Odori festival Naruto whirlpools
+pref.kagawa.lg.jp,Kagawa Prefecture,Prefecture,Japan's smallest prefecture Sanuki udon
+pref.ehime.jp,Ehime Prefecture,Prefecture,Dogo Onsen citrus production
+pref.kochi.lg.jp,Kochi Prefecture,Prefecture,Katsurahama Beach Shimanto River
+pref.fukuoka.lg.jp,Fukuoka Prefecture,Prefecture,Kyushu gateway major industrial center
+pref.saga.lg.jp,Saga Prefecture,Prefecture,Ceramic production in Arita and Imari
+pref.nagasaki.lg.jp,Nagasaki Prefecture,Prefecture,Historical trading port Hidden Christian sites
+pref.kumamoto.jp,Kumamoto Prefecture,Prefecture,Mount Aso volcano Kumamoto Castle
+pref.oita.jp,Oita Prefecture,Prefecture,Beppu and Yufuin hot springs
+pref.miyazaki.lg.jp,Miyazaki Prefecture,Prefecture,Takachiho Gorge Japanese mythology sites
+pref.kagoshima.jp,Kagoshima Prefecture,Prefecture,Sakurajima volcano Amami Islands
+pref.okinawa.lg.jp,Okinawa Prefecture,Prefecture,Former Ryukyu Kingdom tropical climate
+city.sapporo.jp,Sapporo City Government,Municipal,Hokkaido capital 1972 Winter Olympics
+city.sendai.jp,Sendai City Government,Municipal,Tohoku's largest city
+city.yokohama.lg.jp,Yokohama City Government,Municipal,Japan's second-largest city major port
+city.kawasaki.jp,Kawasaki City Government,Municipal,Industrial city between Tokyo and Yokohama
+city.saitama.lg.jp,Saitama City Government,Municipal,Saitama Prefecture capital
+city.chiba.jp,Chiba City Government,Municipal,Chiba Prefecture capital
+city.nagoya.jp,Nagoya City Government,Municipal,Japan's fourth-largest city
+city.osaka.lg.jp,Osaka City Government,Municipal,Japan's third-largest city
+city.kyoto.lg.jp,Kyoto City Government,Municipal,Former imperial capital
+city.kobe.lg.jp,Kobe City Government,Municipal,Hyogo capital major port
+city.hiroshima.lg.jp,Hiroshima City Government,Municipal,Peace memorial city
+city.fukuoka.lg.jp,Fukuoka City Government,Municipal,Kyushu's largest city
+city.kitakyushu.lg.jp,Kitakyushu City Government,Municipal,Major industrial city
+city.kumamoto.jp,Kumamoto City Government,Municipal,Kumamoto Prefecture capital
+city.naha.okinawa.jp,Naha City Government,Municipal,Okinawa capital
+shugiin.go.jp,House of Representatives,Legislative,Lower house elects Prime Minister
+sangiin.go.jp,House of Councillors,Legislative,Upper house reviews legislation
+ndl.go.jp,National Diet Library,Legislative,National library serving Diet and public
+kokkai.ndl.go.jp,National Diet Minutes Database,Legislative,Searchable Diet proceedings database
+courts.go.jp,Supreme Court of Japan,Judicial,Highest court with judicial review power
+houterasu.or.jp,Japan Legal Support Center,Legal,Comprehensive legal aid services
+npa.go.jp,National Police Agency,Security,Central law enforcement coordination
+kaiho.mlit.go.jp,Japan Coast Guard,Security,Maritime law enforcement and rescue
+fdma.go.jp,Fire and Disaster Management Agency,Security,Firefighting and disaster response
+fsa.go.jp,Financial Services Agency,Regulatory,Financial system regulation
+jftc.go.jp,Japan Fair Trade Commission,Regulatory,Antimonopoly enforcement
+nra.go.jp,Nuclear Regulation Authority,Regulatory,Nuclear safety oversight
+ppc.go.jp,Personal Information Protection Commission,Regulatory,Privacy and data protection
+caa.go.jp,Consumer Affairs Agency,Regulatory,Consumer protection
+jpo.go.jp,Japan Patent Office,Regulatory,Intellectual property administration
+bunka.go.jp,Agency for Cultural Affairs,Agency,Cultural promotion and heritage
+stat.go.jp,Statistics Bureau,Agency,Official statistics production
+nta.go.jp,National Tax Agency,Government Organization,Tax collection and policy
+customs.go.jp,Japan Customs,Government Organization,Import/export control
+japanpost.jp,Japan Post Group,Public Corporation,Postal and financial services
+nhk.or.jp,Japan Broadcasting Corporation,Public Corporation,National public broadcaster
+boj.or.jp,Bank of Japan,Public Corporation,Central bank and monetary policy
+nenkin.go.jp,Japan Pension Service,Government Organization,Pension system administration
+jica.go.jp,Japan International Cooperation Agency,Public Corporation,Development assistance
+jetro.go.jp,Japan External Trade Organization,Public Corporation,Trade and investment promotion
+jfc.go.jp,Japan Finance Corporation,Public Corporation,Policy-based SME financing
+dbj.jp,Development Bank of Japan,Public Corporation,Development investment banking
+jma.go.jp,Japan Meteorological Agency,Government Organization,Weather and earthquake monitoring
+gsi.go.jp,Geospatial Information Authority,Government Organization,National mapping and surveying
+water.go.jp,Japan Water Agency,Government Organization,Water resources management
+nedo.go.jp,NEDO,Government Organization,Energy and industrial technology R&D
+jaea.go.jp,Japan Atomic Energy Agency,Government Organization,Nuclear energy research
+u-tokyo.ac.jp,University of Tokyo,National University,Japan's premier university est. 1877
+kyoto-u.ac.jp,Kyoto University,National University,Second Imperial University multiple Nobel laureates
+osaka-u.ac.jp,Osaka University,National University,Largest enrollment strong engineering
+tohoku.ac.jp,Tohoku University,National University,First to admit women and international students
+nagoya-u.ac.jp,Nagoya University,National University,Seven Nobel laureates associated
+kyushu-u.ac.jp,Kyushu University,National University,Strong international presence
+hokudai.ac.jp,Hokkaido University,National University,Agriculture and environmental studies
+titech.ac.jp,Tokyo Institute of Technology,National University,Premier science and technology institution
+hit-u.ac.jp,Hitotsubashi University,National University,Leading social sciences university
+tsukuba.ac.jp,University of Tsukuba,National University,Comprehensive research in Science City
+riken.jp,RIKEN,Research Organization,Japan's largest comprehensive research institute
+jaxa.jp,JAXA,Research Organization,National aerospace and space exploration
+jamstec.go.jp,JAMSTEC,Research Organization,Marine-earth science and deep-sea research
+aist.go.jp,AIST,Research Organization,Applied industrial science and technology
+nims.go.jp,NIMS,Research Organization,Materials science specialization
+nii.ac.jp,NII,Research Organization,Informatics and computing research
+jst.go.jp,JST,Research Organization,Science and technology promotion
+jsps.go.jp,JSPS,Research Organization,Scientific research funding and promotion
+kek.jp,KEK,Research Organization,High-energy particle physics
+nipr.ac.jp,NIPR,Research Organization,Polar and Antarctic research

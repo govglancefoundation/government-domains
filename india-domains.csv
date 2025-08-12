@@ -1,0 +1,124 @@
+Domain,Institution Name,Category,Description
+india.gov.in,National Portal of India,Main Portal,Central gateway to all government services and information
+pmindia.gov.in,Prime Minister's Office,Executive Office,Official portal of the Prime Minister of India
+mygov.in,MyGov Platform,Citizen Engagement,Participatory governance and citizen engagement platform
+niti.gov.in,NITI Aayog,Policy Think Tank,National Institution for Transforming India premier policy advisory body
+mod.gov.in,Ministry of Defence,Union Ministry,National defense policy armed forces coordination territorial integrity
+mea.gov.in,Ministry of External Affairs,Union Ministry,Foreign policy diplomatic relations international cooperation
+finmin.gov.in,Ministry of Finance,Union Ministry,Fiscal policy taxation banking regulation economic affairs
+mha.gov.in,Ministry of Home Affairs,Union Ministry,Internal security border management police coordination
+indianrailways.gov.in,Ministry of Railways,Union Ministry,Railway network operations passenger and freight transportation
+education.gov.in,Ministry of Education,Union Ministry,Education policies higher education school education programs
+mohfw.gov.in,Ministry of Health and Family Welfare,Union Ministry,Health policies public health systems family welfare programs
+agriwelfare.gov.in,Ministry of Agriculture and Farmers Welfare,Union Ministry,Agricultural policies farmer support food security
+commerce.gov.in,Ministry of Commerce and Industry,Union Ministry,Trade promotion industrial policies foreign trade regulations
+morth.nic.in,Ministry of Road Transport and Highways,Union Ministry,National highways development transport policies
+rural.gov.in,Ministry of Rural Development,Union Ministry,Rural development schemes poverty alleviation programs
+mohua.gov.in,Ministry of Housing and Urban Affairs,Union Ministry,Urban development housing policies smart cities mission
+socialjustice.gov.in,Ministry of Social Justice and Empowerment,Union Ministry,Welfare of scheduled castes persons with disabilities
+tribal.gov.in,Ministry of Tribal Affairs,Union Ministry,Tribal welfare policies development programs in tribal areas
+powermin.gov.in,Ministry of Power,Union Ministry,Power sector policies electricity generation and distribution
+coal.gov.in,Ministry of Coal,Union Ministry,Coal mining distribution policies energy security
+petroleum.gov.in,Ministry of Petroleum and Natural Gas,Union Ministry,Oil and gas sector policies exploration refining
+steel.gov.in,Ministry of Steel,Union Ministry,Steel industry policies production coordination
+meity.gov.in,Ministry of Electronics and Information Technology,Union Ministry,IT industry promotion digital governance cybersecurity
+dot.gov.in,Ministry of Communications,Union Ministry,Telecommunications postal services digital infrastructure
+civilaviation.gov.in,Ministry of Civil Aviation,Union Ministry,Aviation industry regulation airports aircraft operations
+shipmin.gov.in,Ministry of Shipping Ports and Waterways,Union Ministry,Maritime infrastructure ports shipping regulations
+texmin.gov.in,Ministry of Textiles,Union Ministry,Textile industry promotion handloom sector
+mofpi.gov.in,Ministry of Food Processing Industries,Union Ministry,Food processing sector development food safety
+ap.gov.in,Andhra Pradesh Government,State Government,State administration with capital at Amaravati
+arunachalpradesh.gov.in,Arunachal Pradesh Government,State Government,Northeastern frontier state administration capital Itanagar
+assam.gov.in,Assam Government,State Government,State services and governance capital Dispur
+state.bihar.gov.in,Bihar Government,State Government,State administration and public services capital Patna
+cgstate.gov.in,Chhattisgarh Government,State Government,State services and digital governance capital Raipur
+goa.gov.in,Goa Government,State Government,Tourism and administration services capital Panaji
+gujaratindia.gov.in,Gujarat Government,State Government,Investment and state services capital Gandhinagar
+haryana.gov.in,Haryana Government,State Government,Governance and citizen services capital Chandigarh
+himachalpr.gov.in,Himachal Pradesh Government,State Government,Hill state administration capital Shimla
+jharkhand.gov.in,Jharkhand Government,State Government,State departments and schemes capital Ranchi
+karnataka.gov.in,Karnataka Government,State Government,IT hub state governance capital Bengaluru
+kerala.gov.in,Kerala Government,State Government,Progressive governance initiatives capital Thiruvananthapuram
+mp.gov.in,Madhya Pradesh Government,State Government,Central state administration capital Bhopal
+maharashtra.gov.in,Maharashtra Government,State Government,India's economic powerhouse state capital Mumbai
+manipur.gov.in,Manipur Government,State Government,Northeast state administration capital Imphal
+meghalaya.gov.in,Meghalaya Government,State Government,Hill state governance capital Shillong
+mizoram.nic.in,Mizoram Government,State Government,Northeast state services capital Aizawl
+nagaland.gov.in,Nagaland Government,State Government,Frontier state administration capital Kohima
+odisha.gov.in,Odisha Government,State Government,Eastern state governance capital Bhubaneswar
+punjab.gov.in,Punjab Government,State Government,Agricultural state services capital Chandigarh
+rajasthan.gov.in,Rajasthan Government,State Government,Desert state administration capital Jaipur
+sikkim.gov.in,Sikkim Government,State Government,Himalayan state governance capital Gangtok
+tn.gov.in,Tamil Nadu Government,State Government,Southern state services capital Chennai
+telangana.gov.in,Telangana Government,State Government,India's youngest state (2014) capital Hyderabad
+tripura.gov.in,Tripura Government,State Government,Northeast state administration capital Agartala
+up.gov.in,Uttar Pradesh Government,State Government,India's most populous state capital Lucknow
+uk.gov.in,Uttarakhand Government,State Government,Hill state services capital Dehradun
+wb.gov.in,West Bengal Government,State Government,Eastern state governance capital Kolkata
+andaman.gov.in,Andaman & Nicobar Islands,Union Territory Government,Island administration capital Port Blair
+chandigarh.gov.in,Chandigarh Administration,Union Territory Government,Joint capital of Punjab and Haryana
+dnh.gov.in,Dadra & Nagar Haveli,Union Territory Government,Western UT administration
+daman.gov.in,Daman & Diu,Union Territory Government,Coastal UT governance
+delhi.gov.in,Delhi Government,Union Territory Government,National Capital Territory services
+jk.gov.in,Jammu & Kashmir,Union Territory Government,Reorganized UT (2019) dual capitals
+ladakh.gov.in,Ladakh,Union Territory Government,High-altitude UT (formed 2019) capital Leh
+lakshadweep.gov.in,Lakshadweep,Union Territory Government,Island administration capital Kavaratti
+py.gov.in,Puducherry,Union Territory Government,Former French territory governance
+sci.gov.in,Supreme Court of India,Judicial Institution,Apex court for constitutional matters and appeals
+allahabadhighcourt.in,Allahabad High Court,Judicial Institution,Uttar Pradesh jurisdiction
+aphc.gov.in,Andhra Pradesh High Court,Judicial Institution,Andhra Pradesh jurisdiction
+bombayhighcourt.nic.in,Bombay High Court,Judicial Institution,Maharashtra Goa Dadra & Nagar Haveli jurisdiction
+calcuttahighcourt.gov.in,Calcutta High Court,Judicial Institution,West Bengal Andaman & Nicobar jurisdiction
+delhihighcourt.nic.in,Delhi High Court,Judicial Institution,National Capital Territory jurisdiction
+ghconline.gov.in,Gauhati High Court,Judicial Institution,Northeast states jurisdiction
+gujarathighcourt.nic.in,Gujarat High Court,Judicial Institution,Gujarat state jurisdiction
+jkhighcourt.nic.in,J&K and Ladakh High Court,Judicial Institution,Jammu & Kashmir Ladakh jurisdiction
+jharkhandhighcourt.nic.in,Jharkhand High Court,Judicial Institution,Jharkhand state jurisdiction
+karnatakajudiciary.kar.nic.in,Karnataka High Court,Judicial Institution,Karnataka state jurisdiction
+highcourt.kerala.gov.in,Kerala High Court,Judicial Institution,Kerala Lakshadweep jurisdiction
+mphc.gov.in,Madhya Pradesh High Court,Judicial Institution,Madhya Pradesh jurisdiction
+hcmadras.tn.nic.in,Madras High Court,Judicial Institution,Tamil Nadu Puducherry jurisdiction
+orissahighcourt.nic.in,Orissa High Court,Judicial Institution,Odisha state jurisdiction
+patnahighcourt.gov.in,Patna High Court,Judicial Institution,Bihar state jurisdiction
+highcourtchd.gov.in,Punjab & Haryana High Court,Judicial Institution,Punjab Haryana Chandigarh jurisdiction
+hcraj.nic.in,Rajasthan High Court,Judicial Institution,Rajasthan state jurisdiction
+hcts.ac.in,Telangana High Court,Judicial Institution,Telangana state jurisdiction
+nja.gov.in,National Judicial Academy,Judicial Institution,Judicial education and training institution
+greentribunal.gov.in,National Green Tribunal,Judicial Institution,Environmental cases tribunal
+sansad.in,Parliament of India,Parliamentary Institution,Digital portal for Indian Parliament
+presidentofindia.gov.in,President of India,Constitutional Office,Head of state and supreme commander
+vicepresidentofindia.nic.in,Vice President of India,Constitutional Office,Vice President and Rajya Sabha Chairman
+eci.gov.in,Election Commission of India,Constitutional Body,Conducting free and fair elections
+upsc.gov.in,Union Public Service Commission,Constitutional Body,Civil services recruitment examinations
+cag.gov.in,Comptroller and Auditor General,Constitutional Body,Government accounts auditing authority
+rbi.org.in,Reserve Bank of India,Regulatory Authority,Central banking and monetary policy
+sebi.gov.in,Securities and Exchange Board,Regulatory Authority,Capital markets regulation
+trai.gov.in,Telecom Regulatory Authority,Regulatory Authority,Telecommunications sector regulation
+irdai.gov.in,Insurance Regulatory Authority,Regulatory Authority,Insurance sector regulation
+fssai.gov.in,Food Safety Standards Authority,Regulatory Authority,Food safety and standards regulation
+nhai.gov.in,National Highways Authority,Regulatory Authority,National highways development and management
+aai.aero,Airports Authority of India,Regulatory Authority,Civil aviation infrastructure management
+cbi.gov.in,Central Bureau of Investigation,Security Agency,Premier investigative agency for corruption and serious crimes
+nia.gov.in,National Investigation Agency,Security Agency,Counter-terrorism investigation agency
+enforcementdirectorate.gov.in,Enforcement Directorate,Security Agency,Financial crimes and money laundering investigation
+bsf.gov.in,Border Security Force,Security Agency,India-Pakistan and India-Bangladesh border security
+crpf.gov.in,Central Reserve Police Force,Security Agency,Internal security and counter-insurgency operations
+cvc.gov.in,Central Vigilance Commission,National Commission,Anti-corruption vigilance institution
+cic.gov.in,Central Information Commission,National Commission,Right to Information implementation
+nhrc.nic.in,National Human Rights Commission,National Commission,Human rights protection and promotion
+ncsc.nic.in,National Commission for Scheduled Castes,National Commission,Scheduled castes welfare and protection
+ongcindia.com,Oil and Natural Gas Corporation,PSU,Largest crude oil and gas company
+ntpc.co.in,NTPC Limited,PSU,Largest power generation company
+sbi.co.in,State Bank of India,PSU,India's largest bank by assets
+isro.gov.in,Indian Space Research Organisation,Government Agency,Space research and satellite technology
+drdo.gov.in,Defence Research & Development,Government Agency,Defense technology development
+dst.gov.in,Department of Science & Technology,Government Department,Science and technology policy and research
+dae.gov.in,Department of Atomic Energy,Government Department,Nuclear energy research and development
+iitb.ac.in,IIT Bombay,Educational Institution,Premier engineering institute ranked #1 in India
+iitd.ac.in,IIT Delhi,Educational Institution,Leading technical institute established 1961
+iitm.ac.in,IIT Madras,Educational Institution,Top engineering institution with overseas campus
+iitkgp.ac.in,IIT Kharagpur,Educational Institution,First IIT established in 1951
+iitk.ac.in,IIT Kanpur,Educational Institution,Excellence in engineering and science education
+iitr.ac.in,IIT Roorkee,Educational Institution,Oldest technical institution in Asia (1847)
+aiims.edu,AIIMS New Delhi,Educational Institution,Premier medical institute and research center
+ugc.gov.in,University Grants Commission,Educational Institution,Higher education standards and coordination

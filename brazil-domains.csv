@@ -1,0 +1,245 @@
+Domain,Level of Government,Jurisdiction,Type/Description,Language
+www.gov.br,Federal,Brazil,Main federal government portal,Multilingual
+gov.br/agricultura,Federal,Brazil,Ministry of Agriculture and Livestock,Portuguese
+gov.br/cidades,Federal,Brazil,Ministry of Cities,Portuguese
+gov.br/mcti,Federal,Brazil,Ministry of Science Technology and Innovation,Portuguese
+gov.br/comunicacoes,Federal,Brazil,Ministry of Communications,Portuguese
+gov.br/cultura,Federal,Brazil,Ministry of Culture,Portuguese
+gov.br/defesa,Federal,Brazil,Ministry of Defense,Portuguese
+gov.br/mda,Federal,Brazil,Ministry of Agrarian Development,Portuguese
+gov.br/mds,Federal,Brazil,Ministry of Social Development,Portuguese
+gov.br/mdic,Federal,Brazil,Ministry of Development Industry and Commerce,Portuguese
+gov.br/mdh,Federal,Brazil,Ministry of Human Rights and Citizenship,Portuguese
+gov.br/mec,Federal,Brazil,Ministry of Education,Portuguese
+gov.br/esporte,Federal,Brazil,Ministry of Sports,Portuguese
+gov.br/fazenda,Federal,Brazil,Ministry of Finance,Portuguese
+gov.br/gestao,Federal,Brazil,Ministry of Management and Innovation,Portuguese
+gov.br/mdr,Federal,Brazil,Ministry of Integration and Regional Development,Portuguese
+gov.br/mj,Federal,Brazil,Ministry of Justice and Public Security,Portuguese
+gov.br/mma,Federal,Brazil,Ministry of Environment and Climate Change,Portuguese
+gov.br/mme,Federal,Brazil,Ministry of Mines and Energy,Portuguese
+gov.br/mulheres,Federal,Brazil,Ministry of Women,Portuguese
+gov.br/mpa,Federal,Brazil,Ministry of Fishing and Aquaculture,Portuguese
+gov.br/economia,Federal,Brazil,Ministry of Planning and Budget,Portuguese
+gov.br/portos,Federal,Brazil,Ministry of Ports and Airports,Portuguese
+gov.br/povosindigenas,Federal,Brazil,Ministry of Indigenous Peoples,Portuguese
+gov.br/previdencia,Federal,Brazil,Ministry of Social Security,Portuguese
+gov.br/mre,Federal,Brazil,Ministry of Foreign Affairs,Bilingual
+gov.br/saude,Federal,Brazil,Ministry of Health,Portuguese
+gov.br/trabalho,Federal,Brazil,Ministry of Labor and Employment,Portuguese
+gov.br/transportes,Federal,Brazil,Ministry of Transport,Portuguese
+gov.br/turismo,Federal,Brazil,Ministry of Tourism,Portuguese
+gov.br/casacivil,Federal,Brazil,Chief of Staff Office,Portuguese
+gov.br/secretariageral,Federal,Brazil,General Secretariat of the Presidency,Portuguese
+gov.br/secom,Federal,Brazil,Social Communication Secretariat,Portuguese
+gov.br/gsi,Federal,Brazil,Institutional Security Cabinet,Portuguese
+gov.br/agu,Federal,Brazil,Attorney General's Office,Portuguese
+gov.br/cgu,Federal,Brazil,Comptroller General's Office,Portuguese
+gov.br/planalto,Federal,Brazil,Presidency of the Republic,Bilingual
+aneel.gov.br,Federal,Brazil,National Electric Energy Agency,Portuguese
+gov.br/anp,Federal,Brazil,National Petroleum Agency,Portuguese
+anatel.gov.br,Federal,Brazil,National Telecommunications Agency,Portuguese
+gov.br/anvisa,Federal,Brazil,National Health Surveillance Agency,Portuguese
+gov.br/ans,Federal,Brazil,National Supplementary Health Agency,Portuguese
+gov.br/ana,Federal,Brazil,National Water Agency,Portuguese
+gov.br/antaq,Federal,Brazil,National Waterway Transport Agency,Portuguese
+gov.br/antt,Federal,Brazil,National Land Transport Agency,Portuguese
+ancine.gov.br,Federal,Brazil,National Cinema Agency,Portuguese
+gov.br/anac,Federal,Brazil,National Civil Aviation Agency,Portuguese
+gov.br/anm,Federal,Brazil,National Mining Agency,Portuguese
+congressonacional.leg.br,Federal,Brazil,National Congress,Portuguese
+camara.leg.br,Federal,Brazil,Chamber of Deputies,Bilingual
+senado.leg.br,Federal,Brazil,Federal Senate,Bilingual
+stf.jus.br,Federal,Brazil,Supreme Federal Court,Bilingual
+stj.jus.br,Federal,Brazil,Superior Court of Justice,Bilingual
+tse.jus.br,Federal,Brazil,Superior Electoral Court,Bilingual
+tst.jus.br,Federal,Brazil,Superior Labor Court,Portuguese
+stm.jus.br,Federal,Brazil,Superior Military Court,Portuguese
+bcb.gov.br,Federal,Brazil,Central Bank of Brazil,Bilingual
+gov.br/receitafederal,Federal,Brazil,Federal Revenue Service,Portuguese
+gov.br/inss,Federal,Brazil,National Social Security Institute,Portuguese
+meu.inss.gov.br,Federal,Brazil,INSS Services Portal,Portuguese
+gov.br/pf,Federal,Brazil,Federal Police,Portuguese
+ibge.gov.br,Federal,Brazil,Brazilian Institute of Geography and Statistics,Portuguese
+ipea.gov.br,Federal,Brazil,Institute of Applied Economic Research,Portuguese
+gov.br/funai,Federal,Brazil,National Indigenous Foundation,Portuguese
+unb.br,Federal,Brazil,University of Brasília,Portuguese
+ufrj.br,Federal,Brazil,Federal University of Rio de Janeiro,Portuguese
+ufsc.br,Federal,Brazil,Federal University of Santa Catarina,Bilingual
+ufrgs.br,Federal,Brazil,Federal University of Rio Grande do Sul,Portuguese
+ufmg.br,Federal,Brazil,Federal University of Minas Gerais,Portuguese
+ufba.br,Federal,Brazil,Federal University of Bahia,Portuguese
+ufes.br,Federal,Brazil,Federal University of Espírito Santo,Portuguese
+ac.gov.br,State,Acre,Main state portal,Portuguese
+estado.ac.gov.br,State,Acre,State government portal,Portuguese
+transparencia.ac.gov.br,State,Acre,Transparency portal,Portuguese
+sefaz.ac.gov.br,State,Acre,Secretary of Finance,Portuguese
+al.ac.leg.br,State,Acre,Legislative Assembly,Portuguese
+tjac.jus.br,State,Acre,Court of Justice,Portuguese
+mpac.mp.br,State,Acre,Public Ministry,Portuguese
+portal.ap.gov.br,State,Amapá,Main state portal,Portuguese
+transparencia.ap.gov.br,State,Amapá,Transparency portal,Portuguese
+detran.ap.gov.br,State,Amapá,Traffic Department,Portuguese
+al.ap.leg.br,State,Amapá,Legislative Assembly,Portuguese
+tjap.jus.br,State,Amapá,Court of Justice,Portuguese
+amazonas.am.gov.br,State,Amazonas,Main state portal,Portuguese
+transparencia.am.gov.br,State,Amazonas,Transparency portal,Portuguese
+sefaz.am.gov.br,State,Amazonas,Secretary of Finance,Portuguese
+ssp.am.gov.br,State,Amazonas,Secretary of Public Security,Portuguese
+tjam.jus.br,State,Amazonas,Court of Justice,Portuguese
+pa.gov.br,State,Pará,Main state portal,Portuguese
+paradigital.pa.gov.br,State,Pará,Digital services portal,Portuguese
+seplad.pa.gov.br,State,Pará,Secretary of Planning,Portuguese
+tjpa.jus.br,State,Pará,Court of Justice,Portuguese
+ro.gov.br,State,Rondônia,Main state portal,Portuguese
+rondonia.ro.gov.br,State,Rondônia,State portal,Portuguese
+transparencia.ro.gov.br,State,Rondônia,Transparency portal,Portuguese
+sefin.ro.gov.br,State,Rondônia,Secretary of Finance,Portuguese
+rr.gov.br,State,Roraima,Main state portal,Portuguese
+portal.rr.gov.br,State,Roraima,Government portal,Portuguese
+transparencia.rr.gov.br,State,Roraima,Transparency portal,Portuguese
+mprr.mp.br,State,Roraima,Public Ministry,Portuguese
+to.gov.br,State,Tocantins,Main state portal,Portuguese
+transparencia.to.gov.br,State,Tocantins,Transparency portal,Portuguese
+portal.sefaz.to.gov.br,State,Tocantins,Secretary of Finance,Portuguese
+al.to.leg.br,State,Tocantins,Legislative Assembly,Portuguese 
+alagoas.al.gov.br,State,Alagoas,Main state portal,Portuguese
+transparencia.al.gov.br,State,Alagoas,Transparency portal,Portuguese
+sefaz.al.gov.br,State,Alagoas,Secretary of Finance,Portuguese
+ba.gov.br,State,Bahia,Main state portal,Portuguese
+bahia.ba.gov.br,State,Bahia,State portal,Portuguese
+transparencia.ba.gov.br,State,Bahia,Transparency portal,Portuguese
+educacao.ba.gov.br,State,Bahia,Secretary of Education,Portuguese
+ssp.ba.gov.br,State,Bahia,Secretary of Public Security,Portuguese
+ceara.gov.br,State,Ceará,Main state portal,Portuguese
+cearatransparente.ce.gov.br,State,Ceará,Transparency portal,Portuguese
+seduc.ce.gov.br,State,Ceará,Secretary of Education,Portuguese
+sefaz.ce.gov.br,State,Ceará,Secretary of Finance,Portuguese
+ma.gov.br,State,Maranhão,Main state portal,Portuguese
+transparencia.ma.gov.br,State,Maranhão,Transparency portal,Portuguese
+educacao.ma.gov.br,State,Maranhão,Secretary of Education,Portuguese
+saude.ma.gov.br,State,Maranhão,Secretary of Health,Portuguese
+paraiba.pb.gov.br,State,Paraíba,Main state portal,Portuguese
+transparencia.pb.gov.br,State,Paraíba,Transparency portal,Portuguese
+sefaz.pb.gov.br,State,Paraíba,Secretary of Finance,Portuguese
+pe.gov.br,State,Pernambuco,Main state portal,Portuguese
+transparencia.pe.gov.br,State,Pernambuco,Transparency portal,Portuguese
+educacao.pe.gov.br,State,Pernambuco,Secretary of Education,Portuguese
+sefaz.pe.gov.br,State,Pernambuco,Secretary of Finance,Portuguese
+pi.gov.br,State,Piauí,Main state portal,Portuguese
+pidigital.pi.gov.br,State,Piauí,Digital services portal,Portuguese
+portal.sefaz.pi.gov.br,State,Piauí,Secretary of Finance,Portuguese
+rn.gov.br,State,Rio Grande do Norte,Main state portal,Portuguese
+sefaz.rn.gov.br,State,Rio Grande do Norte,Secretary of Finance,Portuguese
+se.gov.br,State,Sergipe,Main state portal,Portuguese
+sergipe.se.gov.br,State,Sergipe,State portal,Portuguese
+transparencia.se.gov.br,State,Sergipe,Transparency portal,Portuguese
+df.gov.br,State,Distrito Federal,Main government portal,Portuguese
+servicos.df.gov.br,State,Distrito Federal,Services portal,Portuguese
+cl.df.gov.br,State,Distrito Federal,Legislative Chamber,Portuguese
+tjdft.jus.br,State,Distrito Federal,Court of Justice,Portuguese
+tc.df.gov.br,State,Distrito Federal,Court of Accounts,Portuguese
+segov.df.gov.br,State,Distrito Federal,Secretary of Government,Portuguese
+economia.df.gov.br,State,Distrito Federal,Secretary of Economy,Portuguese
+goias.gov.br,State,Goiás,Main state portal,Portuguese
+go.gov.br,State,Goiás,Services portal,Portuguese
+transparencia.go.gov.br,State,Goiás,Transparency portal,Portuguese
+portal.al.go.leg.br,State,Goiás,Legislative Assembly,Portuguese
+tjgo.jus.br,State,Goiás,Court of Justice,Portuguese
+mt.gov.br,State,Mato Grosso,Main state portal,Portuguese
+portal.mt.gov.br,State,Mato Grosso,Government portal,Portuguese
+al.mt.gov.br,State,Mato Grosso,Legislative Assembly,Portuguese
+tjmt.jus.br,State,Mato Grosso,Court of Justice,Portuguese
+ms.gov.br,State,Mato Grosso do Sul,Main state portal,Portuguese
+al.ms.gov.br,State,Mato Grosso do Sul,Legislative Assembly,Portuguese
+tjms.jus.br,State,Mato Grosso do Sul,Court of Justice,Portuguese
+sefaz.ms.gov.br,State,Mato Grosso do Sul,Secretary of Finance,Portuguese
+es.gov.br,State,Espírito Santo,Main state portal,Portuguese
+portal.es.gov.br,State,Espírito Santo,Government portal,Portuguese
+transparencia.es.gov.br,State,Espírito Santo,Transparency portal,Portuguese
+al.es.gov.br,State,Espírito Santo,Legislative Assembly,Portuguese
+tjes.jus.br,State,Espírito Santo,Court of Justice,Portuguese
+mpes.mp.br,State,Espírito Santo,Public Ministry,Portuguese
+mg.gov.br,State,Minas Gerais,Main state portal,Portuguese
+transparencia.mg.gov.br,State,Minas Gerais,Transparency portal,Portuguese
+fazenda.mg.gov.br,State,Minas Gerais,Secretary of Finance,Portuguese
+almg.gov.br,State,Minas Gerais,Legislative Assembly,Portuguese
+tjmg.jus.br,State,Minas Gerais,Court of Justice,Portuguese
+mpmg.mp.br,State,Minas Gerais,Public Ministry,Portuguese
+rj.gov.br,State,Rio de Janeiro,Main state portal,Portuguese
+fazenda.rj.gov.br,State,Rio de Janeiro,Secretary of Finance,Portuguese
+saude.rj.gov.br,State,Rio de Janeiro,Secretary of Health,Portuguese
+detran.rj.gov.br,State,Rio de Janeiro,Traffic Department,Portuguese
+alerj.rj.gov.br,State,Rio de Janeiro,Legislative Assembly,Portuguese
+tjrj.jus.br,State,Rio de Janeiro,Court of Justice,Portuguese
+mprj.mp.br,State,Rio de Janeiro,Public Ministry,Portuguese
+sp.gov.br,State,São Paulo,Main state portal,Portuguese
+transparencia.sp.gov.br,State,São Paulo,Transparency portal,Portuguese
+educacao.sp.gov.br,State,São Paulo,Secretary of Education,Portuguese
+saude.sp.gov.br,State,São Paulo,Secretary of Health,Portuguese
+fazenda.sp.gov.br,State,São Paulo,Secretary of Finance,Portuguese
+parcerias.sp.gov.br,State,São Paulo,Investment partnerships portal,Bilingual
+detran.sp.gov.br,State,São Paulo,Traffic Department,Portuguese
+poupatempo.sp.gov.br,State,São Paulo,Citizen service centers,Portuguese
+al.sp.gov.br,State,São Paulo,Legislative Assembly,Portuguese
+tjsp.jus.br,State,São Paulo,Court of Justice,Portuguese
+mpsp.mp.br,State,São Paulo,Public Ministry,Portuguese
+parana.pr.gov.br,State,Paraná,Main state portal,Portuguese
+transparencia.pr.gov.br,State,Paraná,Transparency portal,Portuguese
+assembleia.pr.leg.br,State,Paraná,Legislative Assembly,Portuguese
+tjpr.jus.br,State,Paraná,Court of Justice,Portuguese
+mppr.mp.br,State,Paraná,Public Ministry,Portuguese
+estado.rs.gov.br,State,Rio Grande do Sul,Main state portal,Portuguese
+rs.gov.br,State,Rio Grande do Sul,Digital services portal,Portuguese
+transparencia.rs.gov.br,State,Rio Grande do Sul,Transparency portal,Portuguese
+al.rs.gov.br,State,Rio Grande do Sul,Legislative Assembly,Portuguese
+tjrs.jus.br,State,Rio Grande do Sul,Court of Justice,Portuguese
+mprs.mp.br,State,Rio Grande do Sul,Public Ministry,Portuguese
+sc.gov.br,State,Santa Catarina,Main state portal,Portuguese
+estado.sc.gov.br,State,Santa Catarina,Institutional portal,Portuguese
+transparencia.sc.gov.br,State,Santa Catarina,Transparency portal,Portuguese
+alesc.sc.gov.br,State,Santa Catarina,Legislative Assembly,Portuguese
+tjsc.jus.br,State,Santa Catarina,Court of Justice,Portuguese
+mpsc.mp.br,State,Santa Catarina,Public Ministry,Portuguese
+prefeitura.sp.gov.br,Municipal,São Paulo,Main prefeitura website,Bilingual
+saopaulo.sp.leg.br,Municipal,São Paulo,City Council,Portuguese
+prefeitura.rio,Municipal,Rio de Janeiro,Main prefeitura website,Portuguese
+carioca.rio,Municipal,Rio de Janeiro,Citizen services portal,Portuguese
+camara.rio,Municipal,Rio de Janeiro,City Council,Portuguese
+1746.rio,Municipal,Rio de Janeiro,Citizen services hotline,Portuguese
+salvador.ba.gov.br,Municipal,Salvador,Main prefeitura website,Portuguese
+cms.ba.gov.br,Municipal,Salvador,City Council,Portuguese
+transparencia.salvador.ba.gov.br,Municipal,Salvador,Transparency portal,Portuguese
+fortaleza.ce.gov.br,Municipal,Fortaleza,Main prefeitura website,Portuguese
+fortalezadigital.fortaleza.ce.gov.br,Municipal,Fortaleza,Digital services portal,Portuguese
+cmfor.ce.gov.br,Municipal,Fortaleza,City Council,Portuguese
+prefeitura.pbh.gov.br,Municipal,Belo Horizonte,Main prefeitura website,Portuguese
+cmbh.mg.gov.br,Municipal,Belo Horizonte,City Council,Portuguese
+portalbelohorizonte.com.br,Municipal,Belo Horizonte,City promotion portal,Portuguese
+manaus.am.gov.br,Municipal,Manaus,Main prefeitura website,Portuguese
+manausatende.manaus.am.gov.br,Municipal,Manaus,Services portal,Portuguese
+cmm.am.gov.br,Municipal,Manaus,City Council,Portuguese
+transparencia.manaus.am.gov.br,Municipal,Manaus,Transparency portal,Portuguese
+curitiba.pr.gov.br,Municipal,Curitiba,Main prefeitura website,Portuguese
+curitiba.pr.leg.br,Municipal,Curitiba,City Council,Portuguese
+www2.recife.pe.gov.br,Municipal,Recife,Main prefeitura website,Portuguese
+recife.pe.leg.br,Municipal,Recife,City Council,Portuguese
+transparencia.recife.pe.gov.br,Municipal,Recife,Transparency portal,Portuguese
+prefeitura.poa.br,Municipal,Porto Alegre,Main prefeitura website,Portuguese
+transparencia.portoalegre.rs.gov.br,Municipal,Porto Alegre,Transparency portal,Portuguese
+goiania.go.gov.br,Municipal,Goiânia,Main prefeitura website,Portuguese
+goiania.go.leg.br,Municipal,Goiânia,City Council,Portuguese
+governo.belem.pa.gov.br,Municipal,Belém,Main prefeitura website,Portuguese
+cmb.pa.gov.br,Municipal,Belém,City Council,Portuguese
+guarulhos.sp.gov.br,Municipal,Guarulhos,Main prefeitura website,Portuguese
+guarulhos.sp.leg.br,Municipal,Guarulhos,City Council,Portuguese
+campinas.sp.gov.br,Municipal,Campinas,Main prefeitura website,Portuguese
+campinas.sp.leg.br,Municipal,Campinas,City Council,Portuguese
+saoluis.ma.gov.br,Municipal,São Luís,Main prefeitura website,Portuguese
+camara.slz.br,Municipal,São Luís,City Council,Portuguese
+maceio.al.gov.br,Municipal,Maceió,Main prefeitura website,Portuguese
+maceio.al.leg.br,Municipal,Maceió,City Council,Portuguese
+natal.rn.gov.br,Municipal,Natal,Main prefeitura website,Portuguese
+cmnat.rn.gov.br,Municipal,Natal,City Council,Portuguese
+campogrande.ms.gov.br,Municipal,Campo Grande,Main prefeitura website,Portuguese
+camara.ms.gov.br,Municipal,Campo Grande,City Council,Portuguese

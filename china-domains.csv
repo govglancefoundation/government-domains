@@ -1,0 +1,135 @@
+Domain,Institution Name,Category,Description
+www.gov.cn,The State Council of the PRC,Central Government Portal,Main portal for all Chinese government services and information
+english.www.gov.cn,The State Council (English),Central Government Portal,English-language government portal for international audiences
+ndrc.gov.cn,National Development and Reform Commission,State Council Commission,Macroeconomic planning and investment management
+fmprc.gov.cn,Ministry of Foreign Affairs,State Council Ministry,Diplomatic relations and foreign policy
+mod.gov.cn,Ministry of National Defense,State Council Ministry,Military affairs and defense policy
+moe.gov.cn,Ministry of Education,State Council Ministry,National education policy and institutions
+most.gov.cn,Ministry of Science and Technology,State Council Ministry,Science and technology development strategies
+miit.gov.cn,Ministry of Industry and Information Technology,State Council Ministry,Industrial development and telecommunications
+mps.gov.cn,Ministry of Public Security,State Council Ministry,Law enforcement and public security
+moj.gov.cn,Ministry of Justice,State Council Ministry,Legal system administration
+mof.gov.cn,Ministry of Finance,State Council Ministry,Fiscal policy and government budget
+mofcom.gov.cn,Ministry of Commerce,State Council Ministry,Foreign trade and investment policies
+mee.gov.cn,Ministry of Ecology and Environment,State Council Ministry,Environmental protection and climate policy
+moa.gov.cn,Ministry of Agriculture and Rural Affairs,State Council Ministry,Agricultural policy and rural development
+pbc.gov.cn,People's Bank of China,Central Bank,Monetary policy and currency issuance
+audit.gov.cn,National Audit Office,State Council Department,Government auditing and financial accountability
+mem.gov.cn,Ministry of Emergency Management,State Council Ministry,Emergency response and disaster management
+mca.gov.cn,Ministry of Civil Affairs,State Council Ministry,Social welfare and civil administration
+mohurd.gov.cn,Ministry of Housing and Urban-Rural Development,State Council Ministry,Housing policy and urban planning
+mot.gov.cn,Ministry of Transport,State Council Ministry,Transportation infrastructure and logistics
+mwr.gov.cn,Ministry of Water Resources,State Council Ministry,Water conservation and flood control
+mnr.gov.cn,Ministry of Natural Resources,State Council Ministry,Land use and natural resource management
+mct.gov.cn,Ministry of Culture and Tourism,State Council Ministry,Cultural policy and tourism development
+nsa.gov.cn,National Security Agency,State Security,Intelligence and counterintelligence operations
+www.beijing.gov.cn,Beijing Municipality,Direct-Controlled Municipality,Capital city and political center
+www.shanghai.gov.cn,Shanghai Municipality,Direct-Controlled Municipality,Financial and economic hub
+www.tj.gov.cn,Tianjin Municipality,Direct-Controlled Municipality,Northern port city
+www.cq.gov.cn,Chongqing Municipality,Direct-Controlled Municipality,Western China economic center
+www.gd.gov.cn,Guangdong Province,Provincial Government,Largest provincial economy manufacturing hub
+www.jiangsu.gov.cn,Jiangsu Province,Provincial Government,Yangtze River Delta economic region
+www.zhejiang.gov.cn,Zhejiang Province,Provincial Government,Private enterprise and e-commerce center
+www.sichuan.gov.cn,Sichuan Province,Provincial Government,Western China population center
+www.henan.gov.cn,Henan Province,Provincial Government,Most populous province
+www.hebei.gov.cn,Hebei Province,Provincial Government,Surrounds Beijing and Tianjin
+www.anhui.gov.cn,Anhui Province,Provincial Government,Central China agricultural province
+www.fujian.gov.cn,Fujian Province,Provincial Government,Southeast coastal province
+www.gansu.gov.cn,Gansu Province,Provincial Government,Northwestern corridor province
+www.guizhou.gov.cn,Guizhou Province,Provincial Government,Southwestern mountainous province
+www.hainan.gov.cn,Hainan Province,Provincial Government,Southern island province and free trade zone
+www.heilongjiang.gov.cn,Heilongjiang Province,Provincial Government,Northeastern border province
+www.hubei.gov.cn,Hubei Province,Provincial Government,Central China industrial hub
+www.hunan.gov.cn,Hunan Province,Provincial Government,South-central agricultural province
+www.jiangxi.gov.cn,Jiangxi Province,Provincial Government,Southeast interior province
+www.jilin.gov.cn,Jilin Province,Provincial Government,Northeastern border province
+www.liaoning.gov.cn,Liaoning Province,Provincial Government,Northeast industrial base
+www.qinghai.gov.cn,Qinghai Province,Provincial Government,Northwestern plateau province
+www.shaanxi.gov.cn,Shaanxi Province,Provincial Government,Northwest historical province
+www.shandong.gov.cn,Shandong Province,Provincial Government,Eastern coastal industrial province
+www.shanxi.gov.cn,Shanxi Province,Provincial Government,North China coal-producing province
+www.yunnan.gov.cn,Yunnan Province,Provincial Government,Southwest border province
+xinjiang.gov.cn,Xinjiang Uygur Autonomous Region,Autonomous Region,Northwestern frontier autonomous region
+tibet.gov.cn,Tibet Autonomous Region,Autonomous Region,Southwestern plateau autonomous region
+nmg.gov.cn,Inner Mongolia Autonomous Region,Autonomous Region,Northern grasslands autonomous region
+gxzf.gov.cn,Guangxi Zhuang Autonomous Region,Autonomous Region,Southern border autonomous region
+nx.gov.cn,Ningxia Hui Autonomous Region,Autonomous Region,Northwestern autonomous region
+hk.gov.hk,Hong Kong SAR Government,Special Administrative Region,Hong Kong Special Administrative Region
+gov.mo,Macao SAR Government,Special Administrative Region,Macao Special Administrative Region
+court.gov.cn,Supreme People's Court,Supreme Court,Highest court hearing appeals and national cases
+spp.gov.cn,Supreme People's Procuratorate,Supreme Procuratorate,Highest prosecutorial organ
+bjcourt.gov.cn,Beijing High People's Court,Provincial High Court,Beijing's highest local court
+hshfy.sh.cn,Shanghai High People's Court,Provincial High Court,Shanghai's provincial-level court
+shhsfy.gov.cn,Shanghai Maritime Court,Specialized Court,Maritime trade and shipping disputes
+gzhsfy.gov.cn,Guangzhou Maritime Court,Specialized Court,Maritime jurisdiction for Guangdong
+tjfy.gov.cn,Tianjin High People's Court,Provincial High Court,Tianjin municipality court system
+cqfy.gov.cn,Chongqing High People's Court,Provincial High Court,Chongqing municipality court system
+gdcourts.gov.cn,Guangdong High People's Court,Provincial High Court,Guangdong provincial court system
+jscourt.gov.cn,Jiangsu High People's Court,Provincial High Court,Jiangsu provincial court system
+zjcourt.gov.cn,Zhejiang High People's Court,Provincial High Court,Zhejiang provincial court system
+cicc.court.gov.cn,China International Commercial Court,Specialized Court,International commercial dispute resolution
+npc.gov.cn,National People's Congress,Supreme Legislative Body,Highest organ of state power
+cppcc.gov.cn,Chinese People's Political Consultative Conference,Political Consultative Body,Multiparty cooperation organization
+csrc.gov.cn,China Securities Regulatory Commission,Regulatory Commission,Securities market regulation
+cbirc.gov.cn,National Financial Regulatory Administration,Regulatory Administration,Banking and insurance supervision
+samr.gov.cn,State Administration for Market Regulation,State Administration,Market supervision and antitrust
+safe.gov.cn,State Administration of Foreign Exchange,State Administration,Foreign exchange regulation
+en.nhc.gov.cn,National Health Commission,State Commission,National health policies
+sasac.gov.cn,State-owned Assets Supervision Commission,State Commission,SOE supervision and management
+cac.gov.cn,Cyberspace Administration of China,State Administration,Internet regulation and cybersecurity
+customs.gov.cn,General Administration of Customs,State Administration,Import/export and border control
+english.nmpa.gov.cn,National Medical Products Administration,State Administration,Drug and medical device regulation
+nea.gov.cn,National Energy Administration,State Administration,Energy policy and regulation
+nfa.gov.cn,National Forestry Administration,State Administration,Forest management and conservation
+nrta.gov.cn,National Radio and Television Administration,State Administration,Broadcasting and media regulation
+nsa.gov.cn,National Space Administration,State Administration,Space program coordination
+cgac.gov.cn,Civil Aviation Administration of China,State Administration,Aviation safety and regulation
+ems.gov.cn,Emergency Management Administration,State Administration,Natural disaster response
+nha.gov.cn,National Healthcare Security Administration,State Administration,Medical insurance and healthcare
+www.sgcc.com.cn,State Grid Corporation,Central SOE - Energy,World's largest utility company
+www.cnpc.com.cn,China National Petroleum Corporation,Central SOE - Energy,Largest oil and gas producer
+www.petrochina.com.cn,PetroChina,Central SOE - Energy,Listed subsidiary of CNPC
+www.sinopecgroup.com,Sinopec Group,Central SOE - Energy,World's largest oil refiner
+www.sinopec.com,China Petroleum & Chemical Corp,Central SOE - Energy,Listed arm of Sinopec Group
+www.cnooc.com.cn,China National Offshore Oil Corporation,Central SOE - Energy,Offshore oil and gas exploration
+chinaunicom.com.hk,China Unicom,Central SOE - Telecom,Third-largest wireless carrier
+www.chinatelecom.com.cn,China Telecom,Central SOE - Telecom,Fixed-line and mobile services
+10086.cn,China Mobile,Central SOE - Telecom,World's largest mobile operator
+www.icbc.com.cn,Industrial and Commercial Bank of China,Central SOE - Banking,World's largest bank by assets
+www.abchina.com,Agricultural Bank of China,Central SOE - Banking,Second largest bank globally
+www.boc.cn,Bank of China,Central SOE - Banking,One of Big Four state banks
+www.ccb.com,China Construction Bank,Central SOE - Banking,Major commercial bank
+www.china-railway.com.cn,China Railway Group,Central SOE - Infrastructure,World's largest construction company
+english.crcc.cn,China Railway Construction Corp,Central SOE - Infrastructure,Second largest construction company
+www.powerchina.cn,Power Construction Corporation of China,Central SOE - Infrastructure,Hydropower and infrastructure development
+www.chng.com.cn,China Huaneng Group,Central SOE - Energy,Largest power generation company
+www.cofco.com,COFCO Corporation,Central SOE - Food/Agriculture,Largest food processor and trader
+www.sinochem.com,Sinochem Group,Central SOE - Chemicals,Chemical industry conglomerate
+www.chemchina.com,ChemChina,Central SOE - Chemicals,Chemical manufacturing giant
+www.cosco.com,COSCO Shipping,Central SOE - Transportation,World's third-largest shipping company
+tsinghua.edu.cn,Tsinghua University,National University,Top engineering and technology university
+pku.edu.cn,Peking University,National University,China's first national university
+fudan.edu.cn,Fudan University,National University,Leading comprehensive university
+sjtu.edu.cn,Shanghai Jiao Tong University,National University,Top engineering and business school
+zju.edu.cn,Zhejiang University,National University,Comprehensive research university
+ustc.edu.cn,University of Science and Technology of China,National University,CAS-affiliated science university
+nju.edu.cn,Nanjing University,National University,C9 League comprehensive university
+xjtu.edu.cn,Xi'an Jiaotong University,National University,Leading engineering university
+hit.edu.cn,Harbin Institute of Technology,National University,Aerospace and engineering leader
+buaa.edu.cn,Beihang University,National University,Aeronautics and astronautics specialization
+bit.edu.cn,Beijing Institute of Technology,National University,Defense science and technology
+nudt.edu.cn,National University of Defense Technology,Military University,PLA's premier military academy
+ruc.edu.cn,Renmin University of China,National University,Social sciences and humanities leader
+bnu.edu.cn,Beijing Normal University,National University,Teacher education and psychology
+nankai.edu.cn,Nankai University,National University,Comprehensive university in Tianjin
+seu.edu.cn,Southeast University,National University,Engineering and architecture
+scu.edu.cn,Sichuan University,National University,Western China flagship university
+cas.cn,Chinese Academy of Sciences,National Research Academy,World's largest research organization
+ucas.ac.cn,University of Chinese Academy of Sciences,National University,CAS graduate education institution
+cae.cn,Chinese Academy of Engineering,National Engineering Academy,Engineering sciences think tank
+cssn.cn,Chinese Academy of Social Sciences,National Social Sciences Academy,Premier social sciences organization
+cast.cn,China Academy of Space Technology,National Space Institute,Main spacecraft development facility
+spacechina.com,China Aerospace Science and Technology Corp,State Aerospace Corporation,Primary space program contractor
+casc.org.cn,China Aerospace Science and Industry Corp,State Aerospace Corporation,Defense aerospace contractor
+catarc.ac.cn,China Automotive Technology Research Center,National Research Institute,Automotive industry research
+caep.ac.cn,China Academy of Engineering Physics,National Research Institute,Nuclear weapons research facility

@@ -1,0 +1,204 @@
+Domain,Level of Government,Jurisdiction,Type/Description
+canada.ca,Federal,Canada,Main government portal
+gc.ca,Federal,Canada,Government internal domain
+agriculture.canada.ca,Federal,Canada,Agriculture and Agri-Food Canada
+international.gc.ca,Federal,Canada,Global Affairs Canada
+justice.gc.ca,Federal,Canada,Department of Justice
+tc.canada.ca,Federal,Canada,Transport Canada
+dfo-mpo.gc.ca,Federal,Canada,Fisheries and Oceans Canada
+elections.ca,Federal,Canada,Elections Canada 
+veterans.gc.ca,Federal,Canada,Veterans Affairs Canada
+inspection.canada.ca,Federal,Canada,Canadian Food Inspection Agency
+natural-resources.canada.ca,Federal,Canada,Natural Resources Canada
+housing-infrastructure.canada.ca,Federal,Canada,Housing Infrastructure and Communities
+ised-isde.canada.ca,Federal,Canada,Innovation Science Economic Development
+feddev-ontario.canada.ca,Federal,Canada,Federal Economic Development Southern Ontario
+fednor.canada.ca,Federal,Canada,Federal Economic Development Northern Ontario
+cannor.gc.ca,Federal,Canada,Canadian Northern Economic Development Agency
+publicsafety.gc.ca,Federal,Canada,Public Safety Canada
+rcmp-grc.gc.ca,Federal,Canada,Royal Canadian Mounted Police
+cbsa-asfc.gc.ca,Federal,Canada,Canada Border Services Agency
+cse-cst.gc.ca,Federal,Canada,Communications Security Establishment
+csis-scrs.gc.ca,Federal,Canada,Canadian Security Intelligence Service
+statcan.gc.ca,Federal,Canada,Statistics Canada
+nrc-cnrc.gc.ca,Federal,Canada,National Research Council 
+cihr-irsc.gc.ca,Federal,Canada,Canadian Institutes of Health Research
+nserc-crsng.gc.ca,Federal,Canada,Natural Sciences Engineering Research Council
+sshrc-crsh.gc.ca,Federal,Canada,Social Sciences Humanities Research Council
+asc-csa.gc.ca,Federal,Canada,Canadian Space Agency 
+cer-rec.gc.ca,Federal,Canada,Canada Energy Regulator
+crtc.gc.ca,Federal,Canada,Canadian Radio-Television Telecommunications Commission
+nuclearsafety.gc.ca,Federal,Canada,Canadian Nuclear Safety Commission
+catsa-acsta.gc.ca,Federal,Canada,Canadian Air Transport Security Authority
+competition-bureau.canada.ca,Federal,Canada,Competition Bureau
+travel.gc.ca,Federal,Canada,Government travel information
+publications.gc.ca,Federal,Canada,Government Publications
+parks.canada.ca,Federal,Canada,Parks Canada
+cyber.gc.ca,Federal,Canada,Canadian Centre for Cyber Security
+geds-sage.gc.ca,Federal,Canada,Government Electronic Directory Services
+bankofcanada.ca,Federal,Canada,Bank of Canada - Crown Corporation
+cmhc-schl.gc.ca,Federal,Canada,Canada Mortgage and Housing Corporation
+bdc.ca,Federal,Canada,Business Development Bank of Canada
+edc.ca,Federal,Canada,Export Development Canada
+fcc-fac.ca,Federal,Canada,Farm Credit Canada
+cdic.ca,Federal,Canada,Canada Deposit Insurance Corporation
+viarail.ca,Federal,Canada,VIA Rail Canada
+marineatlantic.ca,Federal,Canada,Marine Atlantic Inc
+jacquescartierchamplain.ca,Federal,Canada,Jacques Cartier Champlain Bridges Inc
+cbc.radio-canada.ca,Federal,Canada,Canadian Broadcasting Corporation
+telefilm.ca,Federal,Canada,Telefilm Canada
+canadapost-postescanada.ca,Federal,Canada,Canada Post Corporation
+mint.ca,Federal,Canada,Royal Canadian Mint
+aecl.ca,Federal,Canada,Atomic Energy of Canada Limited
+gallery.ca,Federal,Canada,National Gallery of Canada
+historymuseum.ca,Federal,Canada,Canadian Museum of History
+nature.ca,Federal,Canada,Canadian Museum of Nature
+humanrights.ca,Federal,Canada,Canadian Museum for Human Rights
+pier21.ca,Federal,Canada,Canadian Museum of Immigration at Pier 21
+nac-cna.ca,Federal,Canada,National Arts Centre
+ingeniumcanada.org,Federal,Canada,National Museum of Science and Technology
+destinationcanada.com,Federal,Canada,Destination Canada
+parl.ca,Federal,Canada,Parliament of Canada
+pm.gc.ca,Federal,Canada,Prime Minister of Canada
+gg.ca,Federal,Canada,Governor General of Canada
+laws-lois.justice.gc.ca,Federal,Canada,Justice Laws Website
+scc-csc.ca,Federal,Canada,Supreme Court of Canada 
+fct-cf.gc.ca,Federal,Canada,Federal Court
+fca-caf.ca,Federal,Canada,Federal Court of Appeal
+tcc-cci.gc.ca,Federal,Canada,Tax Court of Canada
+oag-bvg.gc.ca,Federal,Canada,Office of Auditor General
+priv.gc.ca,Federal,Canada,Privacy Commissioner
+oic-ci.gc.ca,Federal,Canada,Information Commissioner
+clo-ocol.gc.ca,Federal,Canada,Commissioner of Official Languages
+lobbycanada.gc.ca,Federal,Canada,Commissioner of Lobbying
+chrt-tcdp.gc.ca,Federal,Canada,Canadian Human Rights Tribunal
+cirb-ccri.gc.ca,Federal,Canada,Canada Industrial Relations Board
+citt-tcce.gc.ca,Federal,Canada,Canadian International Trade Tribunal
+sst-tss.gc.ca,Federal,Canada,Social Security Tribunal
+vrab-tacra.gc.ca,Federal,Canada,Veterans Review and Appeal Board
+scc-ccn.ca,Federal,Canada,Standards Council of Canada
+grainscanada.gc.ca,Federal,Canada,Canadian Grain Commission
+ontario.ca,Provincial,Ontario,Main government portal
+infogo.gov.on.ca,Provincial,Ontario,Employee and organization directory
+gojobs.gov.on.ca,Provincial,Ontario,Public Service careers
+publications.gov.on.ca,Provincial,Ontario,Publications Ontario
+ola.org,Provincial,Ontario,Legislative Assembly of Ontario
+quebec.ca/en,Provincial,Quebec,Main government portal English
+education.gouv.qc.ca/en,Provincial,Quebec,Ministry of Education
+rrq.gouv.qc.ca/en,Provincial,Quebec,Quebec pension plan
+revenuquebec.ca/en,Provincial,Quebec,Revenue Quebec
+gov.bc.ca,Provincial,British Columbia,Main government portal
+news.gov.bc.ca,Provincial,British Columbia,Government news portal
+alberta.ca,Provincial,Alberta,Main government portal
+gov.mb.ca,Provincial,Manitoba,Main government portal
+manitoba.ca,Provincial,Manitoba,Alternate provincial domain
+accessmanitoba.ca,Provincial,Manitoba,Government services portal
+edu.gov.mb.ca,Provincial,Manitoba,Education department
+saskatchewan.ca, Provincial,Saskatchewan,Main government portal
+sgi.sk.ca,Provincial,Saskatchewan,Government Insurance
+saskhealthauthority.ca,Provincial,Saskatchewan,Health Authority
+novascotia.ca,Provincial,Nova Scotia,Main government portal 
+gov.ns.ca,Provincial,Nova Scotia,Secondary government domain 
+ednet.ns.ca,Provincial,Nova Scotia,Education department 
+gnb.ca,Provincial,New Brunswick,Main government portal 
+gov.nb.ca,Provincial,New Brunswick,Secondary government domain
+snb.ca,Provincial,New Brunswick,Service New Brunswick 
+gov.nl.ca,Provincial,Newfoundland and Labrador,Main government portal 
+princeedwardisland.ca,Provincial,Prince Edward Island,Main government portal 
+gov.pe.ca,Provincial,Prince Edward Island,Secondary government domain 
+yukon.ca,Territorial,Yukon,Main government portal
+open.yukon.ca,Territorial,Yukon,Open data portal
+yukonassembly.ca,Territorial,Yukon,Legislative Assembly
+gov.nt.ca,Territorial,Northwest Territories,Main government portal
+hss.gov.nt.ca,Territorial,Northwest Territories,Health and Social Services
+nthssa.ca,Territorial,Northwest Territories,Health Services Authority
+immigratenwt.ca,Territorial,Northwest Territories,Immigration services
+services.nwt-tno.ca,Territorial,Northwest Territories,Online services portal
+ntlegislativeassembly.ca,Territorial,Northwest Territories,Legislative Assembly
+gov.nu.ca,Territorial,Nunavut,Main government portal
+assembly.nu.ca,Territorial,Nunavut,Legislative Assembly
+nunavuttenders.ca,Territorial,Nunavut,Procurement system
+buildingnunavut.com,Territorial,Nunavut,Community sustainability
+public.govnu.ca,Territorial,Nunavut,Contract reporting
+nupl.ca,Territorial,Nunavut,Public Library System
+toronto.ca,Municipal,Toronto,City of Toronto
+ottawa.ca,Municipal,Ottawa,City of Ottawa
+mississauga.ca,Municipal,Mississauga,City of Mississauga
+brampton.ca,Municipal,Brampton,City of Brampton
+hamilton.ca,Municipal,Hamilton,City of Hamilton
+london.ca,Municipal,London,City of London
+markham.ca,Municipal,Markham,City of Markham
+vaughan.ca,Municipal,Vaughan,City of Vaughan
+kitchener.ca,Municipal,Kitchener,City of Kitchener
+windsor.ca,Municipal,Windsor,City of Windsor
+burlington.ca,Municipal,Burlington,City of Burlington 
+oakville.ca,Municipal,Oakville,Town of Oakville 
+oshawa.ca,Municipal,Oshawa,City of Oshawa 
+barrie.ca,Municipal,Barrie,City of Barrie 
+guelph.ca,Municipal,Guelph,City of Guelph 
+cambridge.ca,Municipal,Cambridge,City of Cambridge 
+waterloo.ca,Municipal,Waterloo,City of Waterloo 
+ajax.ca,Municipal,Ajax,Town of Ajax
+whitby.ca,Municipal,Whitby,Town of Whitby 
+greatersudbury.ca,Municipal,Greater Sudbury,City of Greater Sudbury 
+thunderbay.ca,Municipal,Thunder Bay,City of Thunder Bay 
+cityofkingston.ca,Municipal,Kingston,City of Kingston 
+citywindsor.ca,Municipal,Windsor,City of Windsor 
+stcatharines.ca,Municipal,St. Catharines,City of St. Catharines 
+niagarafalls.ca,Municipal,Niagara Falls,City of Niagara Falls 
+peterborough.ca,Municipal,Peterborough,City of Peterborough 
+montreal.ca/en,Municipal,Montreal,City of Montreal
+ville.quebec.qc.ca/en,Municipal,Quebec City,City of Quebec
+laval.ca/en,Municipal,Laval,City of Laval
+gatineau.ca,Municipal,Gatineau,City of Gatineau
+longueuil.quebec/en,Municipal,Longueuil,City of Longueuil
+sherbrooke.ca/en,Municipal,Sherbrooke,City of Sherbrooke
+v3r.net,Municipal,Trois-Rivières,Ville de Trois-Rivières 
+ville.saguenay.ca,Municipal,Saguenay,Ville de Saguenay
+ville.levis.qc.ca,Municipal,Lévis,Ville de Lévis
+vancouver.ca,Municipal,Vancouver,City of Vancouver
+surrey.ca,Municipal,Surrey,City of Surrey
+burnaby.ca,Municipal,Burnaby,City of Burnaby
+richmond.ca,Municipal,Richmond,City of Richmond 
+victoria.ca,Municipal,Victoria,City of Victoria 
+kelowna.ca,Municipal,Kelowna,City of Kelowna 
+kamloops.ca,Municipal,Kamloops,City of Kamloops 
+nanaimo.ca,Municipal,Nanaimo,City of Nanaimo 
+abbotsford.ca,Municipal,Abbotsford,City of Abbotsford 
+coquitlam.ca,Municipal,Coquitlam,City of Coquitlam 
+langleycity.ca,Municipal,Langley City,City of Langley 
+tol.ca,Municipal,Langley Township,Township of Langley 
+delta.ca,Municipal,Delta,City of Delta 
+newwestcity.ca,Municipal,New Westminster,City of New Westminster 
+cnv.org,Municipal,North Vancouver City,City of North Vancouver
+dnv.org,Municipal,North Vancouver District,District of North Vancouver
+westvancouver.ca,Municipal,West Vancouver,District of West Vancouver
+portcoquitlam.ca,Municipal,Port Coquitlam,City of Port Coquitlam 
+calgary.ca,Municipal,Calgary,City of Calgary
+edmonton.ca,Municipal,Edmonton,City of Edmonton
+reddeer.ca,Municipal,Red Deer,City of Red Deer
+lethbridge.ca,Municipal,Lethbridge,City of Lethbridge 
+medicinehat.ca,Municipal,Medicine Hat,City of Medicine Hat 
+rmwb.ca,Municipal,Wood Buffalo,Regional Municipality of Wood Buffalo 
+airdrie.ca,Municipal,Airdrie,City of Airdrie 
+stalbert.ca,Municipal,St. Albert,City of St. Albert 
+cityofgp.com,Municipal,Grande Prairie,City of Grande Prairie 
+sprucegrove.org,Municipal,Spruce Grove,City of Spruce Grove 
+strathcona.ca,Municipal,Strathcona County,Strathcona County 
+winnipeg.ca, Municipal,Winnipeg,City of Winnipeg
+brandon.ca, Municipal,Brandon,City of Brandon
+steinbach.ca, Municipal,Steinbach,City of Steinbach
+thompson.ca,Municipal,Thompson,City of Thompson
+saskatoon.ca,Municipal,Saskatoon,City of Saskatoon
+regina.ca,Municipal,Regina,City of Regina
+citypa.ca,Municipal,Prince Albert,City of Prince Albert
+moosejaw.ca,Municipal,Moose Jaw,City of Moose Jaw
+halifax.ca,Municipal,Halifax,Halifax Regional Municipality 
+fredericton.ca,Municipal,Fredericton,City of Fredericton 
+moncton.ca,Municipal,Moncton,City of Moncton 
+saintjohn.ca,Municipal,Saint John,City of Saint John
+stjohns.ca,Municipal,St. John's,City of St. John's
+charlottetown.ca,Municipal,Charlottetown,City of Charlottetown
+whitehorse.ca,Municipal,Whitehorse,City of Whitehorse
+yellowknife.ca,Municipal,Yellowknife,City of Yellowknife
+iqaluit.ca,Municipal,Iqaluit,City of Iqaluit

@@ -1,0 +1,279 @@
+Domain,Level of Government,Jurisdiction,Type/Description
+pm.gov.au,Federal,Australia,Prime Minister and Cabinet
+aph.gov.au,Federal,Australia,Parliament House
+directory.gov.au,Federal,Australia,Government Directory
+my.gov.au,Federal,Australia,myGov Services Portal
+domainname.gov.au,Federal,Australia,Domain Registration Management
+defence.gov.au,Federal,Australia,Department of Defence
+health.gov.au,Federal,Australia,Department of Health
+dfat.gov.au,Federal,Australia,Foreign Affairs and Trade
+treasury.gov.au,Federal,Australia,Treasury Department
+homeaffairs.gov.au,Federal,Australia,Department of Home Affairs
+servicesaustralia.gov.au,Federal,Australia,Services Australia (Centrelink/Medicare)
+afp.gov.au,Federal,Australia,Australian Federal Police
+asio.gov.au,Federal,Australia,Security Intelligence Organisation
+asd.gov.au,Federal,Australia,Australian Signals Directorate
+abf.gov.au,Federal,Australia,Australian Border Force
+austrac.gov.au,Federal,Australia,Transaction Reports and Analysis Centre
+ato.gov.au,Federal,Australia,Australian Taxation Office
+rba.gov.au,Federal,Australia,Reserve Bank of Australia
+accc.gov.au,Federal,Australia,Competition and Consumer Commission
+asic.gov.au,Federal,Australia,Securities and Investments Commission
+apra.gov.au,Federal,Australia,Prudential Regulation Authority
+cfr.gov.au,Federal,Australia,Council of Financial Regulators
+aec.gov.au,Federal,Australia,Australian Electoral Commission
+bom.gov.au,Federal,Australia,Bureau of Meteorology
+fwc.gov.au,Federal,Australia,Fair Work Commission
+fairwork.gov.au,Federal,Australia,Fair Work Ombudsman
+csiro.au,Federal,Australia,CSIRO Research Organisation
+nsw.gov.au,State,New South Wales,Main State Portal
+service.nsw.gov.au,State,New South Wales,Service NSW
+parliament.nsw.gov.au,State,New South Wales,NSW Parliament
+treasury.nsw.gov.au,State,New South Wales,NSW Treasury
+revenue.nsw.gov.au,State,New South Wales,Revenue NSW
+health.nsw.gov.au,State,New South Wales,NSW Health
+education.nsw.gov.au,State,New South Wales,Department of Education
+transport.nsw.gov.au,State,New South Wales,Transport for NSW
+police.nsw.gov.au,State,New South Wales,NSW Police Force
+fire.nsw.gov.au,State,New South Wales,Fire and Rescue NSW
+rfs.nsw.gov.au,State,New South Wales,Rural Fire Service
+ambulance.nsw.gov.au,State,New South Wales,NSW Ambulance
+ses.nsw.gov.au,State,New South Wales,State Emergency Service
+sl.nsw.gov.au,State,New South Wales,State Library NSW
+fair.trading.nsw.gov.au,State,New South Wales,Fair Trading
+environment.nsw.gov.au,State,New South Wales,Environment Protection Authority
+vic.gov.au,State,Victoria,Main State Portal
+parliament.vic.gov.au,State,Victoria,Parliament of Victoria
+governor.vic.gov.au,State,Victoria,Governor of Victoria
+health.vic.gov.au,State,Victoria,Department of Health
+education.vic.gov.au,State,Victoria,Department of Education
+police.vic.gov.au,State,Victoria,Victoria Police
+cfa.vic.gov.au,State,Victoria,Country Fire Authority
+ses.vic.gov.au,State,Victoria,State Emergency Service
+ambulance.vic.gov.au,State,Victoria,Ambulance Victoria
+vicroads.vic.gov.au,State,Victoria,VicRoads
+emergency.vic.gov.au,State,Victoria,Emergency Victoria
+slv.vic.gov.au,State,Victoria,State Library Victoria
+prov.vic.gov.au,State,Victoria,Public Record Office
+vichealth.vic.gov.au,State,Victoria,Health Promotion Foundation
+vahi.vic.gov.au,State,Victoria,Agency for Health Information
+fines.vic.gov.au,State,Victoria,Fines Victoria
+qld.gov.au,State,Queensland,Main State Portal
+my.qld.gov.au,State,Queensland,Personal Account Portal
+parliament.qld.gov.au,State,Queensland,Queensland Parliament
+legislation.qld.gov.au,State,Queensland,Queensland Legislation
+cabinet.qld.gov.au,State,Queensland,Cabinet and Ministers
+statements.qld.gov.au,State,Queensland,Ministerial Statements
+forgov.qld.gov.au,State,Queensland,Government Employee Portal
+health.qld.gov.au,State,Queensland,Queensland Health
+ambulance.qld.gov.au,State,Queensland,Ambulance Service
+education.qld.gov.au,State,Queensland,Department of Education
+tmr.qld.gov.au,State,Queensland,Transport and Main Roads
+police.qld.gov.au,State,Queensland,Queensland Police
+policerecruit.qld.gov.au,State,Queensland,Police Recruiting
+fire.qld.gov.au,State,Queensland,Fire Department
+qfes.qld.gov.au,State,Queensland,Fire and Emergency Services
+justice.qld.gov.au,State,Queensland,Justice and Attorney-General
+treasury.qld.gov.au,State,Queensland,Queensland Treasury
+business.qld.gov.au,State,Queensland,Business Queensland
+qcat.qld.gov.au,State,Queensland,Civil and Administrative Tribunal
+slq.qld.gov.au,State,Queensland,State Library Queensland
+publications.qld.gov.au,State,Queensland,Government Publications
+rti.qld.gov.au,State,Queensland,Right to Information
+wa.gov.au,State,Western Australia,Main State Portal
+parliament.wa.gov.au,State,Western Australia,WA Parliament
+legislation.wa.gov.au,State,Western Australia,WA Legislation
+health.wa.gov.au,State,Western Australia,WA Health
+transport.wa.gov.au,State,Western Australia,Department of Transport
+mainroads.wa.gov.au,State,Western Australia,Main Roads WA
+pta.wa.gov.au,State,Western Australia,Public Transport Authority
+dfes.wa.gov.au,State,Western Australia,Fire and Emergency Services
+ourstatebudget.wa.gov.au,State,Western Australia,State Budget
+govhouse.wa.gov.au,State,Western Australia,Government House
+commerce.wa.gov.au,State,Western Australia,Commerce Department
+emergency.wa.gov.au,State,Western Australia,Emergency WA
+sa.gov.au,State,South Australia,Main State Portal
+service.sa.gov.au,State,South Australia,Service SA
+forms.sa.gov.au,State,South Australia,Government Forms
+data.sa.gov.au,State,South Australia,Open Data Portal
+iworkfor.sa.gov.au,State,South Australia,Government Jobs
+parliament.sa.gov.au,State,South Australia,SA Parliament
+dpc.sa.gov.au,State,South Australia,Premier and Cabinet
+sahealth.sa.gov.au,State,South Australia,SA Health
+education.sa.gov.au,State,South Australia,Department for Education
+dit.sa.gov.au,State,South Australia,Infrastructure and Transport
+police.sa.gov.au,State,South Australia,SA Police (SAPOL)
+treasury.sa.gov.au,State,South Australia,Treasury and Finance
+safecom.sa.gov.au,State,South Australia,Fire and Emergency Commission
+cfs.sa.gov.au,State,South Australia,Country Fire Service
+mfs.sa.gov.au,State,South Australia,Metropolitan Fire Service
+ses.sa.gov.au,State,South Australia,State Emergency Service
+alert.sa.gov.au,State,South Australia,Alert SA
+plan.sa.gov.au,State,South Australia,PlanSA
+slsa.sa.gov.au,State,South Australia,State Library SA
+libraries.sa.gov.au,State,South Australia,Public Libraries SA
+seniorscard.sa.gov.au,State,South Australia,Seniors Card
+tas.gov.au,State,Tasmania,Main State Portal
+service.tas.gov.au,State,Tasmania,Service Tasmania
+portal.my.service.tas.gov.au,State,Tasmania,myServiceTas Portal
+jobs.tas.gov.au,State,Tasmania,Government Jobs
+parliament.tas.gov.au,State,Tasmania,Parliament of Tasmania
+dpac.tas.gov.au,State,Tasmania,Premier and Cabinet
+health.tas.gov.au,State,Tasmania,Department of Health
+decyp.tas.gov.au,State,Tasmania,Education Children Young People
+stategrowth.tas.gov.au,State,Tasmania,Department of State Growth
+police.tas.gov.au,State,Tasmania,Tasmania Police
+justice.tas.gov.au,State,Tasmania,Department of Justice
+treasury.tas.gov.au,State,Tasmania,Treasury and Finance
+dpfem.tas.gov.au,State,Tasmania,Police Fire Emergency Management
+fire.tas.gov.au,State,Tasmania,Tasmania Fire Service
+ses.tas.gov.au,State,Tasmania,State Emergency Service
+fsst.tas.gov.au,State,Tasmania,Forensic Science Service
+alert.tas.gov.au,State,Tasmania,TasALERT
+thelist.tas.gov.au,State,Tasmania,Land Information Services
+directory.tas.gov.au,State,Tasmania,Government Directory
+libraries.tas.gov.au,State,Tasmania,Libraries Network
+purchasing.tas.gov.au,State,Tasmania,Government Procurement
+act.gov.au,Territory,Australian Capital Territory,Main Territory Portal
+accesscanberra.act.gov.au,Territory,Australian Capital Territory,Access Canberra
+directory.act.gov.au,Territory,Australian Capital Territory,Government Directory
+data.act.gov.au,Territory,Australian Capital Territory,Open Data Portal
+myaccount.act.gov.au,Territory,Australian Capital Territory,Online Account Services
+parliament.act.gov.au,Territory,Australian Capital Territory,Legislative Assembly
+legislation.act.gov.au,Territory,Australian Capital Territory,Legislation Register
+education.act.gov.au,Territory,Australian Capital Territory,Education Directorate
+canberrahealthservices.act.gov.au,Territory,Australian Capital Territory,Canberra Health Services
+training.health.act.gov.au,Territory,Australian Capital Territory,Health Training
+esa.act.gov.au,Territory,Australian Capital Territory,Emergency Services Agency
+audit.act.gov.au,Territory,Australian Capital Territory,Audit Office
+acat.act.gov.au,Territory,Australian Capital Territory,Civil Administrative Tribunal
+elections.act.gov.au,Territory,Australian Capital Territory,Electoral Commission
+ics.act.gov.au,Territory,Australian Capital Territory,Inspector Correctional Services
+integrity.act.gov.au,Territory,Australian Capital Territory,Integrity Commission
+atsichildrenyoungpeople.act.gov.au,Territory,Australian Capital Territory,Aboriginal Torres Strait Islander Office
+ombudsman.act.gov.au,Territory,Australian Capital Territory,ACT Ombudsman
+envcomm.act.gov.au,Territory,Australian Capital Territory,Environment Commissioner
+dpp.act.gov.au,Territory,Australian Capital Territory,Director Public Prosecutions
+gamblingandracing.act.gov.au,Territory,Australian Capital Territory,Gambling Racing Commission
+hrc.act.gov.au,Territory,Australian Capital Territory,Human Rights Commission
+icrc.act.gov.au,Territory,Australian Capital Territory,Competition Regulatory Commission
+actleave.act.gov.au,Territory,Australian Capital Territory,Long Service Leave Authority
+worksafe.act.gov.au,Territory,Australian Capital Territory,WorkSafe ACT
+ovs.act.gov.au,Territory,Australian Capital Territory,Official Visitor Scheme
+publictrustee.act.gov.au,Territory,Australian Capital Territory,Public Trustee Guardian
+suburbanland.act.gov.au,Territory,Australian Capital Territory,Suburban Land Agency
+nt.gov.au,Territory,Northern Territory,Main Territory Portal
+data.nt.gov.au,Territory,Northern Territory,Open Data Portal
+skilledmigration.nt.gov.au,Territory,Northern Territory,MigrationNT
+parliament.nt.gov.au,Territory,Northern Territory,Legislative Assembly
+legislation.nt.gov.au,Territory,Northern Territory,Legislation Register
+health.nt.gov.au,Territory,Northern Territory,Health Department
+education.nt.gov.au,Territory,Northern Territory,Education and Training
+pfes.nt.gov.au,Territory,Northern Territory,Police Fire Emergency Services
+cityofsydney.nsw.gov.au,Local,City of Sydney,Sydney City Council
+cityofparramatta.nsw.gov.au,Local,City of Parramatta,Parramatta Council
+blacktown.nsw.gov.au,Local,Blacktown City,Blacktown Council
+cbcity.nsw.gov.au,Local,Canterbury-Bankstown,Canterbury-Bankstown Council
+northernbeaches.nsw.gov.au,Local,Northern Beaches,Northern Beaches Council
+centralcoast.nsw.gov.au,Local,Central Coast,Central Coast Council
+cumberland.nsw.gov.au,Local,Cumberland,Cumberland Council
+liverpool.nsw.gov.au,Local,Liverpool City,Liverpool Council
+fairfieldcity.nsw.gov.au,Local,Fairfield City,Fairfield Council
+penrithcity.nsw.gov.au,Local,Penrith City,Penrith Council
+campbelltown.nsw.gov.au,Local,Campbelltown City,Campbelltown Council
+sutherlandshire.nsw.gov.au,Local,Sutherland Shire,Sutherland Council
+georgesriver.nsw.gov.au,Local,Georges River,Georges River Council
+bayside.nsw.gov.au,Local,Bayside,Bayside Council
+innerwest.nsw.gov.au,Local,Inner West,Inner West Council
+randwick.nsw.gov.au,Local,Randwick City,Randwick Council
+waverley.nsw.gov.au,Local,Waverley,Waverley Council
+woollahra.nsw.gov.au,Local,Woollahra,Woollahra Council
+willoughby.nsw.gov.au,Local,Willoughby City,Willoughby Council
+melbourne.vic.gov.au,Local,City of Melbourne,Melbourne City Council
+casey.vic.gov.au,Local,City of Casey,Casey Council
+geelongcity.vic.gov.au,Local,Greater Geelong,Geelong Council
+monash.vic.gov.au,Local,City of Monash,Monash Council
+boroondara.vic.gov.au,Local,City of Boroondara,Boroondara Council
+darebin.vic.gov.au,Local,City of Darebin,Darebin Council
+brimbank.vic.gov.au,Local,City of Brimbank,Brimbank Council
+mvcc.vic.gov.au,Local,Moonee Valley,Moonee Valley Council
+brisbane.qld.gov.au,Local,Brisbane City,Brisbane Council (Largest)
+goldcoast.qld.gov.au,Local,Gold Coast City,Gold Coast Council
+sunshinecoast.qld.gov.au,Local,Sunshine Coast,Sunshine Coast Council
+moretonbay.qld.gov.au,Local,Moreton Bay,Moreton Bay Council
+logan.qld.gov.au,Local,Logan City,Logan Council
+redland.qld.gov.au,Local,Redland City,Redland Council
+ipswich.qld.gov.au,Local,Ipswich City,Ipswich Council
+tr.qld.gov.au,Local,Toowoomba Regional,Toowoomba Council
+frasercoast.qld.gov.au,Local,Fraser Coast,Fraser Coast Council
+bundaberg.qld.gov.au,Local,Bundaberg Regional,Bundaberg Council
+cairns.qld.gov.au,Local,Cairns Regional,Cairns Council
+townsville.qld.gov.au,Local,Townsville City,Townsville Council
+mackay.qld.gov.au,Local,Mackay Regional,Mackay Council
+rockhamptonregion.qld.gov.au,Local,Rockhampton,Rockhampton Council
+perth.wa.gov.au,Local,City of Perth,Perth City Council
+stirling.wa.gov.au,Local,City of Stirling,Stirling Council
+joondalup.wa.gov.au,Local,City of Joondalup,Joondalup Council
+wanneroo.wa.gov.au,Local,City of Wanneroo,Wanneroo Council
+swan.wa.gov.au,Local,City of Swan,Swan Council
+armadale.wa.gov.au,Local,City of Armadale,Armadale Council
+gosnells.wa.gov.au,Local,City of Gosnells,Gosnells Council
+canning.wa.gov.au,Local,City of Canning,Canning Council
+melville.wa.gov.au,Local,City of Melville,Melville Council
+cockburn.wa.gov.au,Local,City of Cockburn,Cockburn Council
+fremantle.wa.gov.au,Local,City of Fremantle,Fremantle Council
+rockingham.wa.gov.au,Local,City of Rockingham,Rockingham Council
+mandurah.wa.gov.au,Local,City of Mandurah,Mandurah Council
+southperth.wa.gov.au,Local,City of South Perth,South Perth Council
+vincent.wa.gov.au,Local,City of Vincent,Vincent Council
+subiaco.wa.gov.au,Local,City of Subiaco,Subiaco Council
+nedlands.wa.gov.au,Local,City of Nedlands,Nedlands Council
+belmont.wa.gov.au,Local,City of Belmont,Belmont Council
+bayswater.wa.gov.au,Local,City of Bayswater,Bayswater Council
+kalamunda.wa.gov.au,Local,City of Kalamunda,Kalamunda Council
+mundaring.wa.gov.au,Local,Shire of Mundaring,Mundaring Council
+victoriapark.wa.gov.au,Local,Town of Victoria Park,Victoria Park Council
+cambridge.wa.gov.au,Local,Town of Cambridge,Cambridge Council
+sjshire.wa.gov.au,Local,Serpentine-Jarrahdale,Serpentine-Jarrahdale Shire
+cityofadelaide.com.au,Local,City of Adelaide,Adelaide City Council
+onkaparingacity.com,Local,City of Onkaparinga,Onkaparinga Council
+salisbury.sa.gov.au,Local,City of Salisbury,Salisbury Council
+cityofpae.sa.gov.au,Local,Port Adelaide Enfield,Port Adelaide Enfield Council
+marion.sa.gov.au,Local,City of Marion,Marion Council
+teatreegully.sa.gov.au,Local,City of Tea Tree Gully,Tea Tree Gully Council
+mitchamcouncil.sa.gov.au,Local,City of Mitcham,Mitcham Council
+charlessturt.sa.gov.au,Local,City of Charles Sturt,Charles Sturt Council
+playford.sa.gov.au,Local,City of Playford,Playford Council
+westtorrens.sa.gov.au,Local,City of West Torrens,West Torrens Council
+campbelltown.sa.gov.au,Local,City of Campbelltown,Campbelltown Council SA
+unley.sa.gov.au,Local,City of Unley,Unley Council
+burnside.sa.gov.au,Local,City of Burnside,Burnside Council
+npsp.sa.gov.au,Local,Norwood Payneham St Peters,NPSP Council
+prospect.sa.gov.au,Local,City of Prospect,Prospect Council
+hobartcity.com.au,Local,City of Hobart,Hobart City Council
+gcc.tas.gov.au,Local,City of Glenorchy,Glenorchy Council
+ccc.tas.gov.au,Local,City of Clarence,Clarence Council
+kingborough.tas.gov.au,Local,Kingborough,Kingborough Council
+launceston.tas.gov.au,Local,City of Launceston,Launceston Council
+brighton.tas.gov.au,Local,Brighton,Brighton Council
+derwentvalley.tas.gov.au,Local,Derwent Valley,Derwent Valley Council
+huonvalley.tas.gov.au,Local,Huon Valley,Huon Valley Council
+darwin.nt.gov.au,Local,City of Darwin,Darwin City Council
+palmerston.nt.gov.au,Local,City of Palmerston,Palmerston Council
+litchfield.nt.gov.au,Local,Litchfield,Litchfield Council
+alicesprings.nt.gov.au,Local,Alice Springs,Alice Springs Council
+katherine.nt.gov.au,Local,Katherine,Katherine Town Council
+newcastle.nsw.gov.au,Local,Newcastle City,Newcastle Council
+wollongong.nsw.gov.au,Local,Greater Wollongong,Wollongong Council
+alburycity.nsw.gov.au,Local,Albury City,Albury Council
+wagga.nsw.gov.au,Local,Wagga Wagga City,Wagga Wagga Council
+coffsharbour.nsw.gov.au,Local,Coffs Harbour City,Coffs Harbour Council
+dubbo.nsw.gov.au,Local,Dubbo Regional,Dubbo Council
+orange.nsw.gov.au,Local,Orange City,Orange Council
+bathurst.nsw.gov.au,Local,Bathurst Regional,Bathurst Council
+tamworth.nsw.gov.au,Local,Tamworth Regional,Tamworth Council
+bendigo.vic.gov.au,Local,Greater Bendigo,Bendigo Council
+ballarat.vic.gov.au,Local,City of Ballarat,Ballarat Council
+greatershepparton.com.au,Local,Greater Shepparton,Shepparton Council
+latrobe.vic.gov.au,Local,City of Latrobe,Latrobe Council
+wodonga.vic.gov.au,Local,City of Wodonga,Wodonga Council

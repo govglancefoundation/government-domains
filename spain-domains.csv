@@ -1,0 +1,65 @@
+Domain,Spanish Name,English Name,Type,Description
+lamoncloa.gob.es,Presidencia del Gobierno de España,Presidency of the Government of Spain,Executive,Official site for the President of the Government and the Council of Ministers
+administracion.gob.es,Punto de Acceso General,General Access Point,Government Portal,Single point of access for citizens to information about Public Administrations and administrative procedures
+exteriores.gob.es,Ministerio de Asuntos Exteriores Unión Europea y Cooperación,Ministry of Foreign Affairs European Union and Cooperation,Ministry,Foreign policy diplomatic relations and international cooperation
+interior.gob.es,Ministerio del Interior,Ministry of Interior,Ministry,Public security immigration and territorial administration
+minhafp.gob.es,Ministerio de Hacienda y Función Pública,Ministry of Treasury and Public Function,Ministry,Public finances treasury and civil service management
+defensa.gob.es,Ministerio de Defensa,Ministry of Defence,Ministry,Armed forces and national defense
+justicia.gob.es,Ministerio de la Presidencia Justicia y Relaciones con las Cortes,Ministry of the Presidency Justice and Parliamentary Relations,Ministry,Justice system coordination and parliamentary relations
+transportes.gob.es,Ministerio de Transportes y Movilidad Sostenible,Ministry of Transport and Sustainable Mobility,Ministry,Transport infrastructure and sustainable mobility
+educacion.gob.es,Ministerio de Educación Formación Profesional y Deportes,Ministry of Education Vocational Training and Sports,Ministry,Education policy vocational training and sports development
+mintur.gob.es,Ministerio de Industria y Turismo,Ministry of Industry and Tourism,Ministry,Industrial development and tourism promotion
+sanidad.gob.es,Ministerio de Sanidad,Ministry of Health,Ministry,Public health and healthcare system management
+cultura.gob.es,Ministerio de Cultura,Ministry of Culture,Ministry,Cultural heritage arts and cultural policy
+ciencia.gob.es,Ministerio de Ciencia Innovación y Universidades,Ministry of Science Innovation and Universities,Ministry,Scientific research innovation and higher education
+igualdad.gob.es,Ministerio de Igualdad,Ministry of Equality,Ministry,Gender equality and anti-discrimination policies
+inclusion.gob.es,Ministerio de Inclusión Seguridad Social y Migraciones,Ministry of Inclusion Social Security and Migration,Ministry,Social inclusion security and migration management
+mpr.gob.es,Ministerio de la Presidencia Relaciones con las Cortes y Memoria Democrática,Ministry of the Presidency Parliamentary Relations and Democratic Memory,Ministry,Presidential coordination parliamentary relations and historical memory
+miteco.gob.es,Ministerio para la Transición Ecológica y el Reto Demográfico,Ministry for Ecological Transition and Demographic Challenge,Ministry,Environmental policy and demographic challenges
+mites.gob.es,Ministerio de Trabajo y Economía Social,Ministry of Work and Social Economy,Ministry,Labor policy and social economy development
+mapa.gob.es,Ministerio de Agricultura Pesca y Alimentación,Ministry of Agriculture Fisheries and Food,Ministry,Agricultural policy fisheries and food security
+mineco.gob.es,Ministerio de Economía Comercio y Empresa,Ministry of Economy Trade and Business,Ministry,Economic policy trade and business development
+politicaterritorial.gob.es,Ministerio de Política Territorial y Memoria Democrática,Ministry of Territorial Policy and Democratic Memory,Ministry,Territorial coordination and democratic memory
+vivienda.gob.es,Ministerio de Vivienda y Agenda Urbana,Ministry of Housing and Urban Agenda,Ministry,Housing policy and urban development
+derechossociales.gob.es,Ministerio de Derechos Sociales Consumo y Agenda 2030,Ministry of Social Rights Consumer Affairs and 2030 Agenda,Ministry,Social rights consumer protection and sustainable development
+andalucia.es,Junta de Andalucía,Government of Andalusia,Regional Government,Autonomous community government for Andalusia
+aragon.es,Gobierno de Aragón,Government of Aragon,Regional Government,Autonomous community government for Aragon
+asturias.es,Principado de Asturias,Principality of Asturias,Regional Government,Autonomous community government for Asturias
+madrid.org,Comunidad de Madrid,Community of Madrid,Regional Government,Autonomous community government for Madrid
+gencat.cat,Generalitat de Catalunya,Government of Catalonia,Regional Government,Autonomous community government for Catalonia
+euskadi.eus,Eusko Jaurlaritza - Gobierno Vasco,Basque Government,Regional Government,Autonomous community government for the Basque Country
+xunta.gal,Xunta de Galicia,Government of Galicia,Regional Government,Autonomous community government for Galicia
+caib.es,Govern de les Illes Balears,Government of the Balearic Islands,Regional Government,Autonomous community government for the Balearic Islands
+gobiernodecanarias.org,Gobierno de Canarias,Government of the Canary Islands,Regional Government,Autonomous community government for the Canary Islands
+castillalamancha.es,Junta de Comunidades de Castilla-La Mancha,Government of Castile-La Mancha,Regional Government,Autonomous community government for Castile-La Mancha
+jcyl.es,Junta de Castilla y León,Government of Castile and León,Regional Government,Autonomous community government for Castile and León
+extremadura.es,Junta de Extremadura,Government of Extremadura,Regional Government,Autonomous community government for Extremadura
+riojasalud.es,Gobierno de La Rioja,Government of La Rioja,Regional Government,Autonomous community government for La Rioja
+carm.es,Comunidad Autónoma de la Región de Murcia,Autonomous Community of the Region of Murcia,Regional Government,Autonomous community government for the Region of Murcia
+navarra.es,Gobierno de Navarra,Government of Navarre,Regional Government,Autonomous community government for Navarre
+gva.es,Generalitat Valenciana,Valencian Government,Regional Government,Autonomous community government for the Valencian Community
+cantabria.es,Gobierno de Cantabria,Government of Cantabria,Regional Government,Autonomous community government for Cantabria
+ceuta.es,Ciudad Autónoma de Ceuta,Autonomous City of Ceuta,Autonomous City,Government of the autonomous city of Ceuta
+melilla.es,Ciudad Autónoma de Melilla,Autonomous City of Melilla,Autonomous City,Government of the autonomous city of Melilla
+congreso.es,Congreso de los Diputados,Congress of Deputies,Legislative - Lower House,Lower house of the Spanish Parliament with 350 members
+senado.es,Senado,Senate,Legislative - Upper House,Upper house of the Spanish Parliament representing territorial representation
+tribunalconstitucional.es,Tribunal Constitucional,Constitutional Court,Judicial - Constitutional,Highest constitutional authority and guardian of the Constitution
+tribunalsupremo.es,Tribunal Supremo,Supreme Court,Judicial - Supreme Court,Highest judicial body except for constitutional matters
+cgpj.es,Consejo General del Poder Judicial,General Council of the Judiciary,Judicial - Council,Governing body of judges and magistrates
+defensordelcordoba.es,Defensor del Pueblo,Ombudsman,Constitutional Body,Parliamentary commissioner for citizen rights protection
+tribunaldecuentas.es,Tribunal de Cuentas,Court of Audit,Judicial - Audit,Supreme body for public finance oversight and audit
+fiscalia.es,Fiscalía General del Estado,State Attorney General,Judicial - Prosecution,Public prosecution service for the state
+boe.es,Boletín Oficial del Estado,Official State Gazette,Government Publication,Official journal for state legislation and announcements
+ine.es,Instituto Nacional de Estadística,National Institute of Statistics,Government Agency - Statistics,Official statistical data and census information
+aeat.es,Agencia Estatal de Administración Tributaria,State Tax Administration Agency,Government Agency - Tax,Tax collection and administration
+seg-social.es,Seguridad Social,Social Security,Government Agency - Social Security,Social security system and benefits administration
+sepe.es,Servicio Público de Empleo Estatal,State Public Employment Service,Government Agency - Employment,Employment services and unemployment benefits
+cnmv.es,Comisión Nacional del Mercado de Valores,National Securities Market Commission,Independent Authority - Securities,Financial market regulation and supervision
+bde.es,Banco de España,Bank of Spain,Independent Authority - Central Bank,Central bank and monetary policy within the Eurosystem
+cnmc.es,Comisión Nacional de los Mercados y la Competencia,National Markets and Competition Commission,Independent Authority - Competition,Market regulation antitrust and competition oversight
+aepd.es,Agencia Española de Protección de Datos,Spanish Data Protection Agency,Independent Authority - Privacy,Data protection and privacy rights enforcement
+aemps.es,Agencia Española de Medicamentos y Productos Sanitarios,Spanish Agency for Medicines and Health Products,Regulatory Authority - Health,Pharmaceutical regulation and medical device safety
+cnmc.es,Comisión Nacional de los Mercados y la Competencia,National Markets and Competition Commission,Independent Authority - Utilities,Energy telecommunications and transport regulation
+rtve.es,Radiotelevisión Española,Spanish Radio and Television Corporation,Public Broadcaster,State-owned public service media corporation
+guardia-civil.es,Guardia Civil,Civil Guard,Security Forces,National police force with military nature
+policia.es,Policía Nacional,National Police,Security Forces,Civilian national police force

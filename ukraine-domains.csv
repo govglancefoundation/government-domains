@@ -1,0 +1,97 @@
+Domain,Institution Name,Category,Description
+president.gov.ua,President of Ukraine,Executive Office,Head of state supreme commander-in-chief responsible for national security foreign policy and constitutional functions
+kmu.gov.ua,Cabinet of Ministers of Ukraine,Executive Office,Highest body of state executive power led by Prime Minister coordinates all government ministries and agencies
+mfa.gov.ua,Ministry of Foreign Affairs,Ministry,Foreign policy diplomatic relations consular services international cooperation
+mod.gov.ua,Ministry of Defence,Ministry,Defense policy armed forces management military operations defense procurement
+mvs.gov.ua,Ministry of Internal Affairs,Ministry,Law enforcement public safety police emergency services civil protection
+minjust.gov.ua,Ministry of Justice,Ministry,Justice system administration legal policy judicial reform correctional services
+mof.gov.ua,Ministry of Finance,Ministry,Public finances budget policy taxation financial regulation debt management
+me.gov.ua,Ministry of Economy,Ministry,Economic policy trade regulation business development industrial policy
+mtu.gov.ua,Ministry of Infrastructure,Ministry,Transportation roads ports railways logistics postal services
+thedigital.gov.ua,Ministry of Digital Transformation,Ministry,Digitalization e-government IT policy telecommunications digital services (Diia platform)
+mev.gov.ua,Ministry of Energy,Ministry,Energy policy power generation energy security renewable energy
+mon.gov.ua,Ministry of Education and Science,Ministry,Education policy schools universities research scientific development
+moz.gov.ua,Ministry of Health,Ministry,Healthcare policy medical services public health pandemic response
+msp.gov.ua,Ministry of Social Policy Family and Unity,Ministry,Social protection pensions labor policy family support veterans affairs integration
+mcsc.gov.ua,Ministry of Culture and Strategic Communications,Ministry,Cultural policy media regulation information security cultural heritage strategic communications
+mkip.gov.ua,Ministry of Culture and Information Policy (legacy domain),Ministry,Previous domain for cultural and information policy ministry
+mepr.gov.ua,Ministry of Environmental Protection and Natural Resources,Ministry,Environmental policy nature conservation climate change ecological monitoring
+mva.gov.ua,Ministry of Veterans Affairs,Ministry,Veterans support rehabilitation social services for military veterans
+mms.gov.ua,Ministry of Youth and Sports,Ministry,Youth policy sports development recreational activities
+minagro.gov.ua,Ministry of Agrarian Policy and Food,Ministry,Agricultural policy rural development food security
+mspu.gov.ua,Ministry for Strategic Industries,Ministry,Defense industry strategic manufacturing technology development
+minregion.gov.ua,Ministry for Communities and Territories Development,Ministry,Local government support territorial development urban planning reconstruction
+minre.gov.ua,Ministry for Reintegration of Temporarily Occupied Territories,Ministry,Policy for occupied territories reintegration planning displaced persons support
+rada.gov.ua,Verkhovna Rada of Ukraine,Parliament,Unicameral parliament with 450 deputies responsible for legislation budget approval and oversight
+ombudsman.gov.ua,Ukrainian Parliament Commissioner for Human Rights,Ombudsman,Independent constitutional institution providing parliamentary control over human rights protection
+cvk.gov.ua,Central Election Commission,Election Authority,Independent body organizing and conducting all elections in Ukraine
+ccu.gov.ua,Constitutional Court of Ukraine,Constitutional Court,Sole body of constitutional jurisdiction reviews constitutionality of laws and provides official interpretation
+court.gov.ua,Supreme Court of Ukraine / Judiciary Portal,Supreme Court,Highest court ensuring uniformity of case law includes all cassation courts and main judicial portal
+hcj.gov.ua,High Council of Justice,Judicial Administration,National council submitting motions to appoint dismiss and discipline judges
+vkksu.gov.ua,High Qualification Commission of Judges,Judicial Administration,Determines professional level of judicial candidates and handles disciplinary matters
+rsu.gov.ua,Council of Judges of Ukraine,Judicial Self-Government,Judicial self-government body ensuring independence of courts and judges
+gp.gov.ua,Office of the Prosecutor General,Prosecution Authority,Unified prosecution system supporting state prosecution and supervising law enforcement
+rnbo.gov.ua,National Security and Defense Council,Security Coordination,Coordinates national security and defense matters under the President
+ssu.gov.ua,Security Service of Ukraine (SBU),Internal Security,Main internal security agency for counter-intelligence and state protection
+szru.gov.ua,Foreign Intelligence Service,Intelligence Agency,External intelligence in political economic military and technical spheres
+npu.gov.ua,National Police of Ukraine,National Police,National police service handling all policing and criminal investigation
+dpsu.gov.ua,State Border Guard Service,Border Protection,Protects state borders on land sea and inland waters
+ngu.gov.ua,National Guard of Ukraine,Internal Military Force,National gendarmerie under Ministry of Internal Affairs for public security
+dbr.gov.ua,State Bureau of Investigation,Law Enforcement,Investigates crimes involving officials judges and war crimes
+dsns.gov.ua,State Emergency Service,Emergency Management,Civil protection emergency response fire safety and disaster management
+nabu.gov.ua,National Anti-Corruption Bureau,Anti-Corruption,Investigates high-level corruption crimes by senior officials
+dmsu.gov.ua,State Migration Service,Migration Control,Migration policy implementation and refugee status determination
+bank.gov.ua,National Bank of Ukraine,Central Bank,Central bank for monetary policy banking supervision and currency stability
+fiu.gov.ua,State Financial Monitoring Service,Financial Intelligence,Financial Intelligence Unit for anti-money laundering and counter-terrorism financing
+tax.gov.ua,State Tax Service,Tax Administration,Tax collection customs duties and state tax policy implementation
+amcu.gov.ua,Antimonopoly Committee,Competition Regulator,Competition protection and economic competition law enforcement
+spfu.gov.ua,State Property Fund,Asset Management,State property privatization management and valuation
+stat.gov.ua,State Statistics Service,Statistical Office,National statistics collection processing and dissemination
+ukrstat.gov.ua,State Statistics Service (legacy),Statistical Office,Alternative domain for national statistics service
+nazk.gov.ua,National Agency on Corruption Prevention,Anti-Corruption Prevention,Corruption prevention policy and anti-corruption environment creation
+nkau.gov.ua,State Space Agency,Space Agency,Space policy programs and international space cooperation
+snriu.gov.ua,State Nuclear Regulatory Inspectorate,Nuclear Regulator,Nuclear and radiation safety oversight and regulation
+nerc.gov.ua,National Energy and Utilities Regulatory Commission,Energy Regulator,Energy and utilities market regulation
+customs.gov.ua,State Customs Service,Customs Authority,Customs control and trade facilitation
+nipo.gov.ua,Ukrainian National Office for Intellectual Property,IP Authority,Intellectual property examination and protection
+mova-ombudsman.gov.ua,State Language Protection Commissioner,Language Ombudsman,Ensures compliance with Ukrainian language legislation
+naftogaz.com,Naftogaz of Ukraine,State Enterprise - Energy,National oil and gas company largest taxpayer 52000+ employees
+uz.gov.ua,Ukrainian Railways (Ukrzaliznytsia),State Enterprise - Transport,State railway monopoly operating 19787 km network 191700+ employees
+energoatom.com.ua,Energoatom,State Enterprise - Nuclear,Operates all 4 nuclear power plants provides 55% of electricity
+ua.energy,Ukrenergo,State Enterprise - Transmission,Electricity transmission system operator ENTSO-E member
+tsoua.com,Gas Transmission System Operator,State Enterprise - Gas,Natural gas transportation monopoly 38550 km of pipelines
+ukrposhta.ua,Ukrposhta,State Enterprise - Postal,National postal service
+uspa.gov.ua,Ukrainian Sea Ports Authority,State Enterprise - Ports,Manages state-owned sea port infrastructure
+knu.ua,Taras Shevchenko National University of Kyiv,National University,Founded 1834 most prestigious university 13 faculties
+kpi.ua,Igor Sikorsky Kyiv Polytechnic Institute,National Technical University,Founded 1898 largest technical university 40500 students
+ukma.edu.ua,National University of Kyiv-Mohyla Academy,National University,Historic institution with strong European integration focus
+nubip.edu.ua,National University of Life and Environmental Sciences,National University,Agricultural and environmental education
+nas.gov.ua,National Academy of Sciences of Ukraine,Research Institution,Highest scientific institution coordinates 170+ research institutes
+vin.gov.ua,Vinnytsia Oblast State Administration,Regional Government,Administrative center: Vinnytsia central Ukraine region
+voladm.gov.ua,Volyn Oblast State Administration,Regional Government,Administrative center: Lutsk northwestern Ukraine
+adm.dp.gov.ua,Dnipropetrovsk Oblast State Administration,Regional Government,Administrative center: Dnipro major industrial region
+dn.gov.ua,Donetsk Oblast State Administration,Regional Government,Administrative center: Kramatorsk (relocated) partially occupied
+oda.zht.gov.ua,Zhytomyr Oblast State Administration,Regional Government,Administrative center: Zhytomyr northern Ukraine
+carpathia.gov.ua,Zakarpattia Oblast State Administration,Regional Government,Administrative center: Uzhhorod westernmost region
+zoda.gov.ua,Zaporizhzhia Oblast State Administration,Regional Government,Administrative center: Zaporizhzhia partially occupied
+if.gov.ua,Ivano-Frankivsk Oblast State Administration,Regional Government,Administrative center: Ivano-Frankivsk western Ukraine
+koda.gov.ua,Kyiv Oblast State Administration,Regional Government,Administrative center: Kyiv surrounds capital
+kr-admin.gov.ua,Kirovohrad Oblast State Administration,Regional Government,Administrative center: Kropyvnytskyi central Ukraine
+loga.gov.ua,Luhansk Oblast State Administration,Regional Government,Mobile administration due to occupation
+loda.gov.ua,Lviv Oblast State Administration,Regional Government,Administrative center: Lviv western cultural center
+mk.gov.ua,Mykolaiv Oblast State Administration,Regional Government,Administrative center: Mykolaiv Black Sea region
+oda.od.gov.ua,Odesa Oblast State Administration,Regional Government,Administrative center: Odesa major port city
+poda.gov.ua,Poltava Oblast State Administration,Regional Government,Administrative center: Poltava central-eastern Ukraine
+ror.gov.ua,Rivne Oblast State Administration,Regional Government,Administrative center: Rivne northwestern Ukraine
+sm.gov.ua,Sumy Oblast State Administration,Regional Government,Administrative center: Sumy northeastern border region
+oda.te.gov.ua,Ternopil Oblast State Administration,Regional Government,Administrative center: Ternopil western Ukraine
+kharkivoda.gov.ua,Kharkiv Oblast State Administration,Regional Government,Administrative center: Kharkiv second largest city
+khoda.gov.ua,Kherson Oblast State Administration,Regional Government,Administrative center: Kherson partially occupied
+adm-km.gov.ua,Khmelnytskyi Oblast State Administration,Regional Government,Administrative center: Khmelnytskyi western Ukraine
+ck-oda.gov.ua,Cherkasy Oblast State Administration,Regional Government,Administrative center: Cherkasy central Ukraine
+bukoda.gov.ua,Chernivtsi Oblast State Administration,Regional Government,Administrative center: Chernivtsi southwestern Ukraine
+cg.gov.ua,Chernihiv Oblast State Administration,Regional Government,Administrative center: Chernihiv northern border region
+kyivcity.gov.ua,Kyiv City State Administration,City Administration,Capital city with special status population ~2.95 million
+kmr.gov.ua,Kyiv City Council,City Administration,Alternative domain for Kyiv city government
+city-adm.lviv.ua,Lviv City Administration,City Administration,Major western city IT hub population ~717500
+u24.gov.ua,UNITED24,Government Initiative,Presidential fundraising platform for Ukraine support

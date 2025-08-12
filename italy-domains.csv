@@ -1,0 +1,69 @@
+Domain,Italian Name,English Name,Type,Description
+governo.it,Governo Italiano - Presidenza del Consiglio dei Ministri,Italian Government - Presidency of Council of Ministers,Executive,Central government coordination and policy management
+quirinale.it,Presidenza della Repubblica,Presidency of the Republic,Head of State,Constitutional guarantor and ceremonial functions
+parlamento.it,Parlamento Italiano,Italian Parliament,Legislative,Joint parliamentary portal for bicameral activities
+camera.it,Camera dei Deputati,Chamber of Deputies,Legislative - Lower House,400-member elected lower chamber
+senato.it,Senato della Repubblica,Senate of the Republic,Legislative - Upper House,200-member elected upper chamber
+esteri.it,Ministero degli Affari Esteri e della Cooperazione Internazionale,Ministry of Foreign Affairs and International Cooperation,Ministry,Foreign policy and diplomatic relations
+interno.gov.it,Ministero dell'Interno,Ministry of Interior,Ministry,Public security immigration and territorial administration
+giustizia.it,Ministero della Giustizia,Ministry of Justice,Ministry,Judicial system and legal administration
+difesa.it,Ministero della Difesa,Ministry of Defence,Ministry,Armed forces and national defense
+mef.gov.it,Ministero dell'Economia e delle Finanze,Ministry of Economy and Finance,Ministry,Economic policy and public finances
+mimit.gov.it,Ministero delle Imprese e del Made in Italy,Ministry of Enterprises and Made in Italy,Ministry,Business development and Italian brand promotion
+masaf.gov.it,Ministero dell'Agricoltura della Sovranità Alimentare e delle Foreste,Ministry of Agriculture Food Sovereignty and Forests,Ministry,Agricultural policy and food security
+mase.gov.it,Ministero dell'Ambiente e della Sicurezza Energetica,Ministry of Environment and Energy Security,Ministry,Environmental protection and energy policy
+mit.gov.it,Ministero delle Infrastrutture e dei Trasporti,Ministry of Infrastructure and Transport,Ministry,Transport infrastructure and public works
+lavoro.gov.it,Ministero del Lavoro e delle Politiche Sociali,Ministry of Labor and Social Policies,Ministry,Employment and social security
+mim.gov.it,Ministero dell'Istruzione e del Merito,Ministry of Education and Merit,Ministry,Primary and secondary education
+mur.gov.it,Ministero dell'Università e della Ricerca,Ministry of University and Research,Ministry,Higher education and scientific research
+cultura.gov.it,Ministero della Cultura,Ministry of Culture,Ministry,Cultural heritage and arts
+salute.gov.it,Ministero della Salute,Ministry of Health,Ministry,Public health and healthcare system
+ministeroturismo.gov.it,Ministero del Turismo,Ministry of Tourism,Ministry,Tourism promotion and development
+regione.sicilia.it,Regione Siciliana,Sicilian Region,Regional Government - Special,Largest island region with special autonomy
+regione.sardegna.it,Regione Sardegna,Region of Sardinia,Regional Government - Special,Second-largest island with special statute
+regione.vda.it,Regione Autonoma Valle d'Aosta,Autonomous Region of Aosta Valley,Regional Government - Special,Smallest Alpine region bilingual Italian/French
+regione.fvg.it,Regione Friuli-Venezia Giulia,Friuli-Venezia Giulia Region,Regional Government - Special,Northeastern multilingual region
+provincia.tn.it,Provincia Autonoma di Trento,Autonomous Province of Trento,Regional Government - Special,Part of Trentino-Alto Adige dual structure
+regione.piemonte.it,Regione Piemonte,Piedmont Region,Regional Government,Northwestern industrial region capital Turin
+regione.lombardia.it,Regione Lombardia,Lombardy Region,Regional Government,Most populous region capital Milan
+regione.veneto.it,Regione Veneto,Veneto Region,Regional Government,Northeastern region capital Venice
+regione.liguria.it,Regione Liguria,Liguria Region,Regional Government,Italian Riviera capital Genoa
+regione.emilia-romagna.it,Regione Emilia-Romagna,Emilia-Romagna Region,Regional Government,Northern region capital Bologna
+regione.toscana.it,Regione Toscana,Tuscany Region,Regional Government,Central region capital Florence
+regione.umbria.it,Regione Umbria,Umbria Region,Regional Government,Landlocked central region capital Perugia
+regione.marche.it,Regione Marche,Marche Region,Regional Government,Central Adriatic region capital Ancona
+regione.lazio.it,Regione Lazio,Lazio Region,Regional Government,Capital region contains Rome
+regione.abruzzo.it,Regione Abruzzo,Abruzzo Region,Regional Government,Central mountain region capital L'Aquila
+regione.molise.it,Regione Molise,Molise Region,Regional Government,Small southern region capital Campobasso
+regione.campania.it,Regione Campania,Campania Region,Regional Government,Southern region capital Naples
+regione.puglia.it,Regione Puglia,Apulia Region,Regional Government,Southeastern region capital Bari
+regione.basilicata.it,Regione Basilicata,Basilicata Region,Regional Government,Southern mountain region capital Potenza
+regione.calabria.it,Regione Calabria,Calabria Region,Regional Government,Southern peninsula region capital Catanzaro
+cortecostituzionale.it,Corte Costituzionale,Constitutional Court,Judicial - Constitutional,Highest constitutional review authority
+cortedicassazione.it,Corte Suprema di Cassazione,Supreme Court of Cassation,Judicial - Supreme Court,Highest court for civil and criminal matters
+giustizia-amministrativa.it,Consiglio di Stato / TAR,Council of State / Regional Administrative Courts,Judicial - Administrative,Administrative justice system portal
+corteconti.it,Corte dei Conti,Court of Auditors,Judicial - Accounting,Public finance oversight and jurisdiction
+agenziaentrate.gov.it,Agenzia delle Entrate,Revenue Agency,Government Agency - Revenue,Tax collection and administration
+adm.gov.it,Agenzia delle Dogane e dei Monopoli,Customs and Monopolies Agency,Government Agency - Customs,Customs and state monopolies management
+inps.it,Istituto Nazionale della Previdenza Sociale,National Social Security Institute,Government Agency - Social Security,Pensions and social benefits
+inail.it,Istituto Nazionale Assicurazione Infortuni sul Lavoro,National Institute for Workplace Accident Insurance,Government Agency - Insurance,Workplace accident insurance
+istat.it,Istituto Nazionale di Statistica,National Institute of Statistics,Government Agency - Statistics,Official statistical data and censuses
+poliziadistato.it,Polizia di Stato,State Police,Government Agency - Security,Civilian police force
+carabinieri.it,Arma dei Carabinieri,Carabinieri Corps,Government Agency - Security,Military police force
+gdf.gov.it,Guardia di Finanza,Financial Guard,Government Agency - Security,Financial and customs police
+vigilfuoco.it,Corpo Nazionale dei Vigili del Fuoco,National Fire Brigade Corps,Government Agency - Emergency,Fire and rescue services
+protezionecivile.gov.it,Dipartimento della Protezione Civile,Civil Protection Department,Government Agency - Emergency,Disaster response coordination
+iss.it,Istituto Superiore di Sanità,National Institute of Health,Government Agency - Health,Biomedical research and public health
+agid.gov.it,Agenzia per l'Italia Digitale,Agency for Digital Italy,Government Agency - Digital,Public administration digitalization
+asi.it,Agenzia Spaziale Italiana,Italian Space Agency,Government Agency - Space,Space research and programs
+cnr.it,Consiglio Nazionale delle Ricerche,National Research Council,Government Agency - Research,Multidisciplinary research organization
+bancaditalia.it,Banca d'Italia,Bank of Italy,Independent Authority - Central Bank,Monetary policy and banking supervision
+consob.it,Commissione Nazionale per le Società e la Borsa,Securities and Exchange Commission,Independent Authority - Securities,Financial market regulation
+agcm.it,Autorità Garante della Concorrenza e del Mercato,Competition Authority,Independent Authority - Competition,Antitrust and consumer protection
+garanteprivacy.it,Garante per la protezione dei dati personali,Data Protection Authority,Independent Authority - Privacy,GDPR implementation and privacy protection
+agcom.it,Autorità per le Garanzie nelle Comunicazioni,Communications Authority,Independent Authority - Communications,Telecom and media regulation
+arera.it,Autorità di Regolazione per Energia Reti e Ambiente,Energy Networks Environment Authority,Independent Authority - Utilities,Energy and utility services regulation
+autorita-trasporti.it,Autorità di Regolazione dei Trasporti,Transport Regulation Authority,Independent Authority - Transport,Transport sector regulation
+anticorruzione.it,Autorità Nazionale Anticorruzione,National Anti-Corruption Authority,Independent Authority - Anti-corruption,Corruption prevention and transparency
+aifa.gov.it,Agenzia Italiana del Farmaco,Italian Medicines Agency,Regulatory Body - Pharmaceutical,Drug regulation and safety
+rai.it,Radiotelevisione Italiana,Italian Radio and Television,Public Broadcaster,State-owned public service media
